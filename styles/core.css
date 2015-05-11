@@ -1,0 +1,5 @@
+
+.main{ border:2px solid #85B6E2; width:500px; border-left:2px solid #85B6E2; padding-left:10px;padding-right:10px;border-right:2px solid #85B6E2;position:absolute;background:#fff; right: 0px;; }
+.main h2{font:bold 16px "Microsoft YaHei";padding:10px 10px 2px;color:#000}
+.main ul{ list-style:none;padding:0px;zoom:1;overflow:hidden;font-size:12px; color:#33F}
+.main ul li{float:left;width:150px;text-align:center;line-height:30px;margin-bottom:10px;}

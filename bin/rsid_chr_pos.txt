@@ -1,0 +1,1142 @@
+Variation Name	Variation source	Chromosome name	Position on Chromosome (bp)	Variation source description	Strand	Variant Alleles	Ancestral allele	Minor allele (ALL)	Clinical significance
+rs1000113	dbSNP	5	150240076	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10008257	dbSNP	4	95356328	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs1001179	dbSNP	11	34460231	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10033464	dbSNP	4	111720761	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	T	
+rs10042486	dbSNP	5	63261329	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs10049380	dbSNP	3	124487443	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs1010978	dbSNP	X	129479460	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs10115383	dbSNP	9	103370532	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs1012335	dbSNP	21	34714007	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs10182702	dbSNP	2	215980683	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs10192566	dbSNP	2	11890428	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs1019358	dbSNP	2	15524042	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs1019385	dbSNP	12	14134843	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs10193895	dbSNP	2	106269612	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs10209881	dbSNP	2	31246249	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs10264272	dbSNP	7	99262835	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10306135	dbSNP	9	125137695	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs1042173	dbSNP	17	28525011	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	A	
+rs10423928	dbSNP	19	46182304	Variants (including SNPs and indels) imported from dbSNP	1	T/A	T	A	
+rs1042522	dbSNP	17	7579472	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	G	non-pathogenic
+rs10426377	dbSNP	19	49092234	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	A	
+rs1042713	dbSNP	5	148206440	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	other
+rs1042714	dbSNP	5	148206473	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	G	other
+rs1042858	dbSNP	11	4159466	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs1042927	dbSNP	11	4159929	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	C	
+rs1043620	dbSNP	6	31783755	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs1044396	dbSNP	20	61981134	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1044397	dbSNP	20	61981104	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1044870	dbSNP	6	31130821	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1045642	dbSNP	7	87138645	Variants (including SNPs and indels) imported from dbSNP	1	A/G/T	G	A	
+rs1046428	dbSNP	14	77794283	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs1047891	dbSNP	2	211540507	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs10482633	dbSNP	5	142750533	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs1048943	dbSNP	15	75012985	Variants (including SNPs and indels) imported from dbSNP	1	T/A/C/G	T	C	
+rs1048977	dbSNP	1	20945055	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10489997	dbSNP	2	160405498	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1049353	dbSNP	6	88853635	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10494366	dbSNP	1	162085685	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	T	
+rs1049550	dbSNP	10	81926702	Variants (including SNPs and indels) imported from dbSNP	1	G/A		A	
+rs1050565	dbSNP	17	28576076	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	non-pathogenic
+rs1050828	dbSNP	X	153764217	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	other,pathogenic
+rs1050829	dbSNP	X	153763492	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	other,pathogenic
+rs10509373	dbSNP	10	78157572	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs10509681	dbSNP	10	96798749	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1051266	dbSNP	21	46957794	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs1051298	dbSNP	21	46934826	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1051375	dbSNP	12	2788879	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs1051685	dbSNP	2	217070376	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs1051730	dbSNP	15	78894339	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1051740	dbSNP	1	226019633	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	other
+rs1051922	dbSNP	9	21077716	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs1056836	dbSNP	2	38298203	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	C	
+rs1056892	dbSNP	21	37518706	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1057868	dbSNP	7	75615006	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1057910	dbSNP	10	96741053	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	drug-response,pathogenic
+rs1058930	dbSNP	10	96818119	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs1061235	dbSNP	6	29913298	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	other
+rs1062613	dbSNP	11	113846006	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs1065776	dbSNP	3	152553628	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1065852	dbSNP	22	42526694	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	pathogenic
+rs10736526	dbSNP	11	122589092	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs10757274	dbSNP	9	22096055	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs1076560	dbSNP	11	113283688	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs10783969	dbSNP	12	40053158	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	T	
+rs10784749	dbSNP	12	69422029	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs10792367	dbSNP	11	62758799	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs1079598	dbSNP	11	113296274	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs10799754	dbSNP	1	22746686	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs10807344	dbSNP	6	46625635	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10811661	dbSNP	9	22134094	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs10821936	dbSNP	10	63723577	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs10836235	dbSNP	11	34460704	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10841661	dbSNP	12	20984832	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs10871454	dbSNP	16	31048079	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10876844	dbSNP	12	56050706	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs10879346	dbSNP	12	72351835	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10883617	dbSNP	10	103113035	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs10912675	dbSNP	1	171227216	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs10917670	dbSNP	1	163032842	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs10918594	dbSNP	1	162030688	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs10919563	dbSNP	1	198700442	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs10929302	dbSNP	2	234665782	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs10932125	dbSNP	2	206652300	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs10965219	dbSNP	9	22053687	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs10975641	dbSNP	9	6556839	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs11014166	dbSNP	10	18708798	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs11023197	dbSNP	11	14380998	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs11030918	dbSNP	11	4115487	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs11039149	dbSNP	11	47276675	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs11042725	dbSNP	11	10325325	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	A	
+rs11045585	dbSNP	12	21045694	Variants (including SNPs and indels) imported from dbSNP	1	A/G		G	
+rs11045819	dbSNP	12	21329813	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs11045879	dbSNP	12	21382619	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1105525	dbSNP	5	79950508	Variants (including SNPs and indels) imported from dbSNP	1	C/T		T	
+rs1105879	dbSNP	2	234602202	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs11062040	dbSNP	12	2091257	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs11072508	dbSNP	15	75062397	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs11075646	dbSNP	16	66969176	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs1109374	dbSNP	1	65633497	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs111033610	dbSNP	19	41352941	Variants (including SNPs and indels) imported from dbSNP	1	A/G		G	pathogenic
+rs1110976	dbSNP	11	113284519	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T		
+rs1111875	dbSNP	10	94462882	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs11123469	dbSNP	2	118844183	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1113129	dbSNP	10	96811045	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs11141915	dbSNP	9	90235794	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	C	
+rs11146020	dbSNP	9	140033084	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs11150606	dbSNP	16	31099011	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs11188072	dbSNP	10	96519061	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs11191439	dbSNP	10	104638723	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs11209716	dbSNP	1	71377650	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs11231809	dbSNP	11	64302950	Variants (including SNPs and indels) imported from dbSNP	1	T/A	T	A	
+rs1123617	dbSNP	18	43252883	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1125394	dbSNP	11	113297185	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs11264359	dbSNP	1	155282829	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs1126742	dbSNP	1	47398496	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs1127354	dbSNP	20	3193842	Variants (including SNPs and indels) imported from dbSNP	1	C/A/G/T	C	A	pathogenic
+rs1128397	dbSNP	8	21550800	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs1128503	dbSNP	7	87179601	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs1130169	dbSNP	4	15850685	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs1131596	dbSNP	21	46957916	Variants (including SNPs and indels) imported from dbSNP	1	G/A/C/T	G	A	
+rs113420705	dbSNP	4	185570553	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs1135840	dbSNP	22	42522613	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs1136201	dbSNP	17	37879588	Variants (including SNPs and indels) imported from dbSNP	1	A/G/T	A	G	non-pathogenic
+rs1137101	dbSNP	1	66058513	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	non-pathogenic
+rs1138272	dbSNP	11	67353579	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1142345	dbSNP	6	18130918	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	pathogenic
+rs1143663	dbSNP	21	37442675	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		
+rs1143684	dbSNP	6	3010390	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs1149222	dbSNP	7	87073775	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	G	
+rs1150226	dbSNP	11	113845541	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs1152003	dbSNP	3	12477055	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	G	
+rs1154461	dbSNP	4	100342902	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs11545077	dbSNP	8	63951237	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs11545078	dbSNP	8	63938764	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs11568626	dbSNP	11	62752014	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs11568655	dbSNP	13	95715014	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs11568658	dbSNP	13	95863008	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs11568695	dbSNP	13	95696540	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs11572080	dbSNP	10	96827030	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs11572103	dbSNP	10	96818106	Variants (including SNPs and indels) imported from dbSNP	1	T/A	T	A	
+rs11615	dbSNP	19	45923653	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs11644322	dbSNP	16	79039600	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs11653	dbSNP	7	128409580	Variants (including SNPs and indels) imported from dbSNP	1	T/A	A	A	
+rs11656365	dbSNP	17	66927420	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs11676382	dbSNP	2	85777633	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs11692021	dbSNP	2	234591205	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs11702779	dbSNP	21	36368659	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs11704959	dbSNP	22	24820483	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs11706052	dbSNP	3	49064110	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs11719165	dbSNP	3	194586088	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs11739136	dbSNP	5	169810796	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	pathogenic
+rs11805303	dbSNP	1	67675516	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1186745	dbSNP	7	87133947	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs1186746	dbSNP	7	87133993	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs11869731	dbSNP	17	32338871	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs11872992	dbSNP	18	58040587	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1187326	dbSNP	9	87285915	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs1187327	dbSNP	9	87288540	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs119774	dbSNP	16	16086833	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12003906	dbSNP	9	107645477	Variants (including SNPs and indels) imported from dbSNP	1	G/C/T	G	T	
+rs12046844	dbSNP	1	66238379	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1205	dbSNP	1	159682233	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12050217	dbSNP	14	96728753	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs1209950	dbSNP	21	40173528	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12126638	dbSNP	1	216175696	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs12145722	dbSNP	1	22742985	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs12195350	dbSNP	6	43365360	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs1219648	dbSNP	10	123346190	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs12201199	dbSNP	6	18139802	Variants (including SNPs and indels) imported from dbSNP	1	A/T	T	T	
+rs12208357	dbSNP	6	160543148	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12210538	dbSNP	6	110760008	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs12221497	dbSNP	11	47280653	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs12243326	dbSNP	10	114788815	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs12248560	dbSNP	10	96521657	Variants (including SNPs and indels) imported from dbSNP	1	C/A/T	C	T	
+rs12255372	dbSNP	10	114808902	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs1229967	dbSNP	4	100207578	Variants (including SNPs and indels) imported from dbSNP	1	G/C/T		G	
+rs1229976	dbSNP	4	100202078	Variants (including SNPs and indels) imported from dbSNP	1	C/T		C	
+rs1229985	dbSNP	4	100232878	Variants (including SNPs and indels) imported from dbSNP	1	A/G		G	
+rs1232027	dbSNP	5	79915020	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs12333983	dbSNP	7	99354114	Variants (including SNPs and indels) imported from dbSNP	1	T/A	A	A	
+rs12353214	dbSNP	9	125161870	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12361312	dbSNP	11	59852596	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C		
+rs12410394	dbSNP	1	150860186	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs12418	dbSNP	10	73773014	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs12422149	dbSNP	11	74883577	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs12425009	dbSNP	12	123502044	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs12478318	dbSNP	2	167133540	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs1256049	dbSNP	14	64724051	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12613732	dbSNP	2	31249427	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs12654264	dbSNP	5	74648603	Variants (including SNPs and indels) imported from dbSNP	1	A/T	T	T	
+rs12659	dbSNP	21	46951556	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs12693402	dbSNP	2	185808079	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12714145	dbSNP	2	85787341	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12718541	dbSNP	7	50550144	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs12720441	dbSNP	7	150647304	Variants (including SNPs and indels) imported from dbSNP	1	G/A/C	G	C	other
+rs12720461	dbSNP	15	75041351	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12721226	dbSNP	3	148459309	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs12721613	dbSNP	3	119526176	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12721627	dbSNP	7	99366093	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs12721634	dbSNP	7	99381661	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A		
+rs12721646	dbSNP	19	41447184	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C		
+rs12721646	dbSNP	19	41515107	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C		
+rs12721655	dbSNP	19	41510282	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs12762549	dbSNP	10	101620771	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs12768009	dbSNP	10	96525865	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs12782374	dbSNP	10	96695351	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs12800734	dbSNP	11	120836754	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs12806698	dbSNP	11	4115974	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs12819210	dbSNP	12	121458400	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs12943590	dbSNP	17	19619998	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs12960	dbSNP	16	89620328	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs12979860	dbSNP	19	39738787	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs12980275	dbSNP	19	39731783	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs12999804	dbSNP	2	31245650	Variants (including SNPs and indels) imported from dbSNP	1	A/T	T	T	
+rs130058	dbSNP	6	78173281	Variants (including SNPs and indels) imported from dbSNP	1	T/A	T	A	
+rs130077	dbSNP	6	31122330	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs13058338	dbSNP	22	37632770	Variants (including SNPs and indels) imported from dbSNP	1	T/A	T	A	
+rs13120400	dbSNP	4	89033527	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs13181	dbSNP	19	45854919	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	G	
+rs13250096	dbSNP	8	21576409	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs13266634	dbSNP	8	118184783	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	other
+rs13273672	dbSNP	8	11612381	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs13306278	dbSNP	22	19929027	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs135561	dbSNP	22	46539639	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs1360780	dbSNP	6	35607571	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs1364043	dbSNP	5	63250851	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs1367117	dbSNP	2	21263900	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1379357	dbSNP	8	24781579	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	G	
+rs1382368	dbSNP	5	82451075	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1387923	dbSNP	9	87640636	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs1390913	dbSNP	4	44921565	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1402467	dbSNP	2	108994808	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs140504	dbSNP	22	23627369	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs1414334	dbSNP	X	114138144	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	C	
+rs1433099	dbSNP	19	11242658	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs1451371	dbSNP	7	50553051	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1457266	dbSNP	8	24769852	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs1464602	dbSNP	3	119526372	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs1464603	dbSNP	3	119526349	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs1487278	dbSNP	12	72400851	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1523130	dbSNP	3	119499507	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs1532624	dbSNP	16	57005479	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs1540339	dbSNP	12	48257326	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1544105	dbSNP	9	130562725	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs1544410	dbSNP	12	48239835	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs15524	dbSNP	7	99245914	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs1557070	dbSNP	13	95839003	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1570360	dbSNP	6	43737830	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs1617640	dbSNP	7	100317298	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	C	
+rs1633021	dbSNP	6	29746869	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1634776	dbSNP	6	31308988	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs165599	dbSNP	22	19956781	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs1656402	dbSNP	2	233426526	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs1662060	dbSNP	4	100259841	Variants (including SNPs and indels) imported from dbSNP	1	T/C		C	
+rs167770	dbSNP	3	113879562	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs167771	dbSNP	3	113876275	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs16857540	dbSNP	3	173900575	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs1687390	dbSNP	9	117089888	Variants (including SNPs and indels) imported from dbSNP	1	G/A		A	
+rs16889462	dbSNP	8	118184784	Variants (including SNPs and indels) imported from dbSNP	1	G/A/C/T	G	A	
+rs16892645	dbSNP	4	15938392	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs16909440	dbSNP	11	5080844	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs16944	dbSNP	2	113594867	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs16947	dbSNP	22	42523943	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs1695	dbSNP	11	67352689	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs16969968	dbSNP	15	78882925	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	other
+rs16973410	dbSNP	18	38029873	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs17033	dbSNP	4	100228945	Variants (including SNPs and indels) imported from dbSNP	1	T/C		C	
+rs17060812	dbSNP	8	22228828	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs17091162	dbSNP	14	95089232	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs17091297	dbSNP	X	152980865	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs17116806	dbSNP	1	97973252	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs17183814	dbSNP	2	166152389	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs17190526	dbSNP	6	31082081	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs17221417	dbSNP	16	50739582	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs17222723	dbSNP	10	101595996	Variants (including SNPs and indels) imported from dbSNP	1	T/A	T	A	
+rs17234657	dbSNP	5	40401509	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs17238540	dbSNP	5	74655498	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs17244587	dbSNP	17	45823035	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs17244841	dbSNP	5	74642855	Variants (including SNPs and indels) imported from dbSNP	1	A/T	T	T	
+rs17287570	dbSNP	16	16155103	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs17288723	dbSNP	13	47457693	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1734787	dbSNP	X	153325446	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs1734791	dbSNP	X	153330920	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs1736557	dbSNP	1	171080080	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	pathogenic
+rs17376848	dbSNP	1	97915624	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs17435	dbSNP	X	153311980	Variants (including SNPs and indels) imported from dbSNP	1	T/A	T	T	
+rs174541	dbSNP	11	61565908	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1751034	dbSNP	13	95714976	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T		
+rs17583889	dbSNP	2	138746039	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs17602038	dbSNP	11	113364691	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1760217	dbSNP	1	97602994	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs17602729	dbSNP	1	115236057	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	pathogenic
+rs17626122	dbSNP	2	206474012	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs17645700	dbSNP	2	138780932	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs17655	dbSNP	13	103528002	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs17708472	dbSNP	16	31105353	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs17731538	dbSNP	4	89055379	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs17782313	dbSNP	18	57851097	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs17863783	dbSNP	2	234602277	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs17868323	dbSNP	2	234590970	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	T	
+rs17884712	dbSNP	10	96535246	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs17886199	dbSNP	16	31104447	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs1789891	dbSNP	4	100250419	Variants (including SNPs and indels) imported from dbSNP	1	C/A		A	
+rs179619	dbSNP	16	13822359	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs1799722	dbSNP	14	96671139	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1799732	dbSNP	11	113346252	Variants (including SNPs and indels) imported from dbSNP	1	-/G		-	
+rs1799735	dbSNP	1	110280254	Variants (including SNPs and indels) imported from dbSNP	1	CCT/-	C		
+rs1799752	dbSNP	17	61565891	Variants (including SNPs and indels) imported from dbSNP	1	-/ATACAGTCACTTTTTTTTTTTTTTTGAGACGGAGTCTCGCTCTGTCGCCC			
+rs1799782	dbSNP	19	44057574	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1799793	dbSNP	19	45867259	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1799807	dbSNP	3	165548529	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	pathogenic
+rs1799853	dbSNP	10	96702047	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	other
+rs1799883	dbSNP	4	120241902	Variants (including SNPs and indels) imported from dbSNP	1	T/A/C/G	C	T	non-pathogenic
+rs1799889	dbSNP	7	100769711	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A		
+rs1799913	dbSNP	11	18047255	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	T	
+rs1799931	dbSNP	8	18258370	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	drug-response
+rs1799945	dbSNP	6	26091179	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	other
+rs1799971	dbSNP	6	154360797	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs1799978	dbSNP	11	113346351	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs1799983	dbSNP	7	150696111	Variants (including SNPs and indels) imported from dbSNP	1	T/G		T	other,pathogenic
+rs1800012	dbSNP	17	48277749	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs1800169	dbSNP	11	58391501	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1800440	dbSNP	2	38298139	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1800460	dbSNP	6	18139228	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	pathogenic
+rs1800462	dbSNP	6	18143955	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	drug-response
+rs1800469	dbSNP	19	41860296	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	non-pathogenic
+rs1800477	dbSNP	18	60985773	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1800497	dbSNP	11	113270828	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	pathogenic
+rs1800532	dbSNP	11	18047816	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs1800544	dbSNP	10	112836503	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	G	
+rs1800562	dbSNP	6	26093141	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	other,pathogenic
+rs1800566	dbSNP	16	69745145	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	other,pathogenic
+rs1800584	dbSNP	6	18131012	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C		
+rs1800629	dbSNP	6	31543031	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1800734	dbSNP	3	37034946	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1800795	dbSNP	7	22766645	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs1800888	dbSNP	5	148206885	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	drug-response
+rs1800909	dbSNP	8	63951312	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs1801019	dbSNP	3	124456742	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs1801028	dbSNP	11	113283484	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs1801030	dbSNP	16	28617485	Variants (including SNPs and indels) imported from dbSNP	1	C/T		C	
+rs1801131	dbSNP	1	11854476	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	non-pathogenic,other
+rs1801133	dbSNP	1	11856378	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	non-pathogenic
+rs1801158	dbSNP	1	97981421	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1801159	dbSNP	1	97981395	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs1801160	dbSNP	1	97770920	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1801252	dbSNP	10	115804036	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	pathogenic
+rs1801253	dbSNP	10	115805056	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	drug-response
+rs1801260	dbSNP	4	56301369	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs1801265	dbSNP	1	98348885	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	pathogenic
+rs1801266	dbSNP	1	98157332	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		
+rs1801272	dbSNP	19	41354533	Variants (including SNPs and indels) imported from dbSNP	1	A/T		T	pathogenic
+rs1801274	dbSNP	1	161479745	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	other
+rs1801282	dbSNP	3	12393125	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	pathogenic
+rs1801394	dbSNP	5	7870973	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	other
+rs1804645	dbSNP	2	24974958	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1805087	dbSNP	1	237048500	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs1805123	dbSNP	7	150645534	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs1805125	dbSNP	3	38620946	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	probable-non-pathogenic
+rs1805128	dbSNP	21	35821680	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	other,pathogenic,probable-non-pathogenic
+rs1808458	dbSNP	2	118879253	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1851426	dbSNP	7	99382936	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs1871450	dbSNP	10	73772014	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1877724	dbSNP	1	226013355	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1883112	dbSNP	22	37256846	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs1883322	dbSNP	6	35369806	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs1901440	dbSNP	2	134437959	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	C	
+rs1902023	dbSNP	4	69536084	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	A	
+rs1910236	dbSNP	3	59434420	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs1928040	dbSNP	13	47447236	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs1934951	dbSNP	10	96798548	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1935349	dbSNP	10	92594343	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs1954787	dbSNP	11	120663363	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs1979277	dbSNP	17	18232096	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2000068	dbSNP	9	107718308	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs2010963	dbSNP	6	43738350	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs2011425	dbSNP	2	234627608	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs2016520	dbSNP	6	35378778	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs2016848	dbSNP	3	154858685	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2018417	dbSNP	4	100235140	Variants (including SNPs and indels) imported from dbSNP	1	C/A		A	
+rs2019604	dbSNP	16	89615765	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs2020870	dbSNP	1	171154959	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2031920	dbSNP	10	135339845	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2032582	dbSNP	7	87160618	Variants (including SNPs and indels) imported from dbSNP	1	A/C/T	C	A	
+rs2032583	dbSNP	7	87160561	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs20417	dbSNP	1	186650321	Variants (including SNPs and indels) imported from dbSNP	1	C/G	T	G	
+rs20455	dbSNP	6	39325078	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs2046934	dbSNP	3	151057642	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs20572	dbSNP	21	37444973	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2061051	dbSNP	15	27520811	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs2066853	dbSNP	7	17379110	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs2069514	dbSNP	15	75038220	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2069526	dbSNP	15	75041341	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	G	
+rs2069919	dbSNP	2	128179553	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2070676	dbSNP	10	135351137	Variants (including SNPs and indels) imported from dbSNP	1	G/C		G	
+rs2070744	dbSNP	7	150690079	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs2070959	dbSNP	2	234602191	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2070995	dbSNP	21	39086965	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs2071230	dbSNP	11	102660959	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2071427	dbSNP	17	38254492	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs2071543	dbSNP	6	32811629	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs2072660	dbSNP	1	154548721	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs2072661	dbSNP	1	154548880	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2072671	dbSNP	1	20915701	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs2075252	dbSNP	2	170010985	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs2076369	dbSNP	22	38463652	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	T	
+rs2104286	dbSNP	10	6099045	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs2106089	dbSNP	1	158628627	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs2107506	dbSNP	5	135300277	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs2108622	dbSNP	19	15990431	Variants (including SNPs and indels) imported from dbSNP	1	C/T		T	
+rs2108623	dbSNP	19	16017006	Variants (including SNPs and indels) imported from dbSNP	1	G/A		A	
+rs211247	dbSNP	13	33582646	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs2115819	dbSNP	10	45901089	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2125739	dbSNP	6	43412865	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs216013	dbSNP	12	2729632	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2168047	dbSNP	4	69349059	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs2185631	dbSNP	6	43408005	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2189784	dbSNP	19	15959200	Variants (including SNPs and indels) imported from dbSNP	1	G/A		A	
+rs2193225	dbSNP	2	51079482	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs2198843	dbSNP	15	75001230	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs2200733	dbSNP	4	111710169	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2207396	dbSNP	6	152382382	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2207418	dbSNP	20	11174903	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs2227291	dbSNP	X	77268502	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs2227631	dbSNP	7	100769538	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs2227684	dbSNP	7	100776931	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2227956	dbSNP	6	31778272	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs2227983	dbSNP	7	55229255	Variants (including SNPs and indels) imported from dbSNP	1	G/A/C/T	G	A	
+rs2228001	dbSNP	3	14187449	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	G	
+rs2228099	dbSNP	1	150808889	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs2228100	dbSNP	17	19642952	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs2228478	dbSNP	16	89986608	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs2228479	dbSNP	16	89985940	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	pathogenic
+rs2228570	dbSNP	12	48272895	Variants (including SNPs and indels) imported from dbSNP	1	A/C/G/T	A	A	
+rs2228622	dbSNP	9	4564432	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2229107	dbSNP	7	87138659	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs2229109	dbSNP	7	87179809	Variants (including SNPs and indels) imported from dbSNP	1	C/A/T	C	T	
+rs2229959	dbSNP	20	61981554	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	C	
+rs2230054	dbSNP	2	219000310	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs2231142	dbSNP	4	89052323	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs2231164	dbSNP	4	89015857	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs2232165	dbSNP	3	172166144	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2233945	dbSNP	6	31107361	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs2234693	dbSNP	6	152163335	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs2234922	dbSNP	1	226026406	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	non-pathogenic
+rs2235015	dbSNP	7	87199564	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs2235047	dbSNP	7	87138532	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs2235048	dbSNP	7	87138511	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs2235800	dbSNP	X	129498836	Variants (including SNPs and indels) imported from dbSNP	1	T/A	A	A	
+rs2236196	dbSNP	20	61977556	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs2236225	dbSNP	14	64908845	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	other
+rs2236624	dbSNP	22	24836024	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs2237717	dbSNP	7	116405387	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs2237895	dbSNP	11	2857194	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs2238472	dbSNP	16	16251599	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	pathogenic
+rs2238476	dbSNP	16	16213872	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2239179	dbSNP	12	48257766	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs2239185	dbSNP	12	48244559	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2239483	dbSNP	X	129477451	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2239622	dbSNP	1	115837709	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs2242480	dbSNP	7	99361466	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs2243250	dbSNP	5	132009154	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2245964	dbSNP	4	15939915	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs2246709	dbSNP	7	99365719	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs2257401	dbSNP	7	99306685	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs2260863	dbSNP	1	226019774	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs2267076	dbSNP	22	24830595	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs2267715	dbSNP	7	30716087	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2269577	dbSNP	22	29196757	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	C	
+rs2270450	dbSNP	6	46644875	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2273504	dbSNP	20	61988061	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2273623	dbSNP	14	60765245	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2273697	dbSNP	10	101563815	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2274405	dbSNP	13	95858978	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs2274406	dbSNP	13	95858996	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs2274407	dbSNP	13	95859035	Variants (including SNPs and indels) imported from dbSNP	1	C/A/G/T	C	A	
+rs2275622	dbSNP	10	96827178	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs2276302	dbSNP	11	113850140	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs2276307	dbSNP	11	113803887	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2276332	dbSNP	4	100203447	Variants (including SNPs and indels) imported from dbSNP	1	A/C		C	
+rs2276707	dbSNP	3	119534153	Variants (including SNPs and indels) imported from dbSNP	1	C/G/T	C	T	
+rs2278293	dbSNP	7	128040752	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2278294	dbSNP	7	128040699	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2279238	dbSNP	11	47282024	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2279343	dbSNP	19	41515263	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A		
+rs2281617	dbSNP	6	154487421	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2283265	dbSNP	11	113285536	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs2284017	dbSNP	22	37096927	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs2284220	dbSNP	7	30718103	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs2286455	dbSNP	4	16020162	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2289656	dbSNP	9	87563562	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2290271	dbSNP	15	85447635	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	C	
+rs2290573	dbSNP	15	75129594	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2292954	dbSNP	16	89613123	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2296840	dbSNP	1	151372047	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2297480	dbSNP	1	155279482	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs2297595	dbSNP	1	98165091	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs2298383	dbSNP	22	24825511	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2298771	dbSNP	2	166892788	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	non-pathogenic
+rs2298826	dbSNP	11	20659757	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2301149	dbSNP	5	169805956	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs2301159	dbSNP	13	103697728	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs2302764	dbSNP	17	7360110	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs2304016	dbSNP	2	166168503	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2305364	dbSNP	15	85452275	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T		
+rs2306168	dbSNP	11	74907582	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs2306283	dbSNP	12	21329738	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs2306719	dbSNP	15	63633238	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs231775	dbSNP	2	204732714	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	other
+rs234709	dbSNP	21	44486964	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs2357928	dbSNP	10	18549641	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs2359612	dbSNP	16	31103796	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs2368564	dbSNP	1	204124865	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs2372536	dbSNP	2	216190020	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs2391191	dbSNP	13	106119446	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2395029	dbSNP	6	31431780	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs2401863	dbSNP	14	90456188	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	G	
+rs2430561	dbSNP	12	68552522	Variants (including SNPs and indels) imported from dbSNP	1	T/A	T	A	
+rs2433320	dbSNP	4	95370805	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2433322	dbSNP	4	95379741	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs244076	dbSNP	20	43252915	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs2445142	dbSNP	1	22225743	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs246240	dbSNP	16	16119024	Variants (including SNPs and indels) imported from dbSNP	1	A/G		G	
+rs2465403	dbSNP	8	120090827	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs2470890	dbSNP	15	75047426	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2470893	dbSNP	15	75019449	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2472297	dbSNP	15	75027880	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2472299	dbSNP	15	75033400	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs2472304	dbSNP	15	75044238	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2472507	dbSNP	9	107687193	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs2472677	dbSNP	3	119518417	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs2476601	dbSNP	1	114377568	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	other
+rs2485914	dbSNP	1	246220746	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs2487030	dbSNP	9	107706188	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2487663	dbSNP	6	43409418	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs2494732	dbSNP	14	105239192	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs2499984	dbSNP	11	5061541	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2500535	dbSNP	6	149329267	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs2515629	dbSNP	9	107594364	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2518224	dbSNP	6	101906652	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs2542151	dbSNP	18	12779947	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	G	
+rs25487	dbSNP	19	44055726	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs25489	dbSNP	19	44056412	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2550731	dbSNP	16	79044649	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs255100	dbSNP	7	30728908	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs25531	dbSNP	17	28564346	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs2569190	dbSNP	5	140012916	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs258494	dbSNP	5	75038718	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	C	
+rs2606345	dbSNP	15	75017176	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs2619538	dbSNP	6	15665209	Variants (including SNPs and indels) imported from dbSNP	1	A/T	T	T	
+rs2619539	dbSNP	6	15620855	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs2622604	dbSNP	4	89078924	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs2640543	dbSNP	3	148432369	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs265981	dbSNP	5	174870902	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs2660845	dbSNP	12	96438553	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs2661319	dbSNP	1	163039777	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs2687116	dbSNP	7	99365943	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	C	
+rs27072	dbSNP	5	1394522	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2727786	dbSNP	11	116708523	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C		
+rs2734583	dbSNP	6	31505480	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2738466	dbSNP	19	11242765	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs2740574	dbSNP	7	99382096	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs2741049	dbSNP	2	234581834	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs275651	dbSNP	3	148414887	Variants (including SNPs and indels) imported from dbSNP	1	T/A	A	A	
+rs2762939	dbSNP	20	52781251	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs2768759	dbSNP	1	156852463	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs2781659	dbSNP	6	131891820	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2784917	dbSNP	10	98928942	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs2804400	dbSNP	10	101553259	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2811332	dbSNP	3	129515128	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs2814707	dbSNP	9	27536397	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2815752	dbSNP	1	72812440	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs2819742	dbSNP	1	237990122	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs2824292	dbSNP	21	18787176	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2826494	dbSNP	21	22104695	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs283411	dbSNP	4	100265957	Variants (including SNPs and indels) imported from dbSNP	1	C/A		A	
+rs283416	dbSNP	4	100271356	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2835285	dbSNP	21	37507767	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		
+rs28364006	dbSNP	16	16228249	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A		
+rs28364072	dbSNP	19	7755285	Variants (including SNPs and indels) imported from dbSNP	1	A/G		G	
+rs28365062	dbSNP	4	69964271	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs28371685	dbSNP	10	96740981	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs28371686	dbSNP	10	96741058	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs28371706	dbSNP	22	42525772	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs28371725	dbSNP	22	42523805	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs28399433	dbSNP	19	41356379	Variants (including SNPs and indels) imported from dbSNP	1	A/C		C	
+rs28399434	dbSNP	19	41356319	Variants (including SNPs and indels) imported from dbSNP	1	C/T		T	
+rs28399435	dbSNP	19	41356246	Variants (including SNPs and indels) imported from dbSNP	1	C/T		T	
+rs28399454	dbSNP	19	41351267	Variants (including SNPs and indels) imported from dbSNP	1	C/T		T	
+rs28399468	dbSNP	19	41349732	Variants (including SNPs and indels) imported from dbSNP	1	C/A		A	
+rs28399499	dbSNP	19	41518221	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs28399504	dbSNP	10	96522463	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	pathogenic
+rs28416813	dbSNP	19	39735644	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs2842030	dbSNP	1	163040495	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	G	
+rs2844682	dbSNP	6	30946148	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs2847153	dbSNP	18	661647	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs2848716	dbSNP	6	31387967	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs28493229	dbSNP	19	41224204	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs2853539	dbSNP	18	659829	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs2854116	dbSNP	11	116700169	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2854117	dbSNP	11	116700142	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs2854744	dbSNP	7	45961075	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	G	
+rs2854746	dbSNP	7	45960645	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs2888327	dbSNP	2	215888014	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs28933389	dbSNP	3	165548010	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	pathogenic
+rs28933390	dbSNP	3	165547569	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	pathogenic
+rs28940302	dbSNP	X	27882097	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G		
+rs2894342	dbSNP	6	33774394	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs2900174	dbSNP	12	11547532	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs290487	dbSNP	10	114909731	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs2948694	dbSNP	3	172165163	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs2960436	dbSNP	7	45977282	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs296766	dbSNP	12	50350953	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs3025058	dbSNP	11	102715948	Variants (including SNPs and indels) imported from dbSNP	1	-/A			
+rs3032740	dbSNP	22	24835041	Variants (including SNPs and indels) imported from dbSNP	1	-/TTTTT			
+rs304478	dbSNP	10	91150922	Variants (including SNPs and indels) imported from dbSNP	1	G/T		G	
+rs306104	dbSNP	5	110631265	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs307821	dbSNP	5	180030313	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs307826	dbSNP	5	180051003	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs3087243	dbSNP	2	204738919	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs3093726	dbSNP	6	31546789	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs3094011	dbSNP	6	31451836	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs3099844	dbSNP	6	31448976	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs3110697	dbSNP	7	45955029	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs3130	dbSNP	4	15969938	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs3130690	dbSNP	6	31285935	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs3131643	dbSNP	6	31442782	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs3135388	dbSNP	6	32413051	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs315135	dbSNP	12	69762987	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs316019	dbSNP	6	160670282	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	A	
+rs317689	dbSNP	12	69727190	Variants (including SNPs and indels) imported from dbSNP	1	G/A		G	
+rs320	dbSNP	8	19819077	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs3211371	dbSNP	19	41522715	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3212948	dbSNP	19	45924362	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs3212986	dbSNP	19	45912736	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	A	
+rs3213207	dbSNP	6	15628102	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs3213422	dbSNP	16	72042682	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	A	
+rs3215133	dbSNP	1	150802273	Variants (including SNPs and indels) imported from dbSNP	1	T/-	T	-	
+rs3215400	dbSNP	1	20915590	Variants (including SNPs and indels) imported from dbSNP	1	C/-	C	C	
+rs3218622	dbSNP	1	186646005	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs3218625	dbSNP	1	186643541	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs324023	dbSNP	3	113885395	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs324026	dbSNP	3	113891042	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs324420	dbSNP	1	46870761	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	other
+rs333	dbSNP	3	46414944	Variants (including SNPs and indels) imported from dbSNP	1	ACAGTCAGTATCAATTCTGGAAGAATTTCCAG/-			
+rs333	dbSNP	3	46414947	Variants (including SNPs and indels) imported from dbSNP	1	GTCAGTATCAATTCTGGAAGAATTTCCAGACA/-			
+rs334558	dbSNP	3	119813282	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs339097	dbSNP	7	128399224	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs34059508	dbSNP	6	160575837	Variants (including SNPs and indels) imported from dbSNP	1	G/A/C	G	A	
+rs34097093	dbSNP	19	41518370	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C		
+rs34130495	dbSNP	6	160560824	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs34223104	dbSNP	19	41497129	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs34241435	dbSNP	16	23313185	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs34399035	dbSNP	17	19584971	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs34489327	dbSNP	18	673451	Variants (including SNPs and indels) imported from dbSNP	1	-/TTAAAG	T		
+rs34743033	dbSNP	18	657646	Variants (including SNPs and indels) imported from dbSNP	1	(CCGCGCCACTTCGCCTGCCTCCGTCCCG)2/(CCGCGCCACTTCGCCTGCCTCCGTCCCG)3/(CCGCGCCACTTCGCCTGCCTCCGTCCCG)4			
+rs34993780	dbSNP	2	234681059	Variants (including SNPs and indels) imported from dbSNP	1	T/A/G	T	G	pathogenic
+rs35167514	dbSNP	6	160560881	Variants (including SNPs and indels) imported from dbSNP	1	A/-	A		
+rs35303484	dbSNP	19	41497346	Variants (including SNPs and indels) imported from dbSNP	1	A/G/T	A	G	
+rs35320474	dbSNP	22	24837910	Variants (including SNPs and indels) imported from dbSNP	1	-/T			
+rs35350960	dbSNP	2	234669619	Variants (including SNPs and indels) imported from dbSNP	1	C/A/T	C	A	pathogenic
+rs35529209	dbSNP	16	16205325	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		
+rs35592	dbSNP	16	16141823	Variants (including SNPs and indels) imported from dbSNP	1	T/C		C	
+rs35599367	dbSNP	7	99366316	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs35694136	dbSNP	15	75039613	Variants (including SNPs and indels) imported from dbSNP	1	T/-		-	
+rs36079186	dbSNP	19	41512918	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs36210421	dbSNP	7	150644428	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	probable-non-pathogenic
+rs3730353	dbSNP	6	111995666	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs3734254	dbSNP	6	35395010	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs3735273	dbSNP	7	50596864	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3735451	dbSNP	7	99355975	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs3736228	dbSNP	11	68201295	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3736599	dbSNP	4	70725821	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3740066	dbSNP	10	101604207	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3742106	dbSNP	13	95673791	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs3744311	dbSNP	17	70407856	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3745009	dbSNP	18	43262359	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs3745274	dbSNP	19	41512841	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs3750518	dbSNP	9	139982868	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3753380	dbSNP	1	78956432	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs3755557	dbSNP	3	119814957	Variants (including SNPs and indels) imported from dbSNP	1	T/A	A	A	
+rs3757241	dbSNP	6	46623698	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs3757472	dbSNP	7	50537983	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	A	
+rs3758149	dbSNP	8	63951728	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs3760091	dbSNP	16	28620800	Variants (including SNPs and indels) imported from dbSNP	1	C/G/T		G	
+rs3761422	dbSNP	22	24826672	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs3763980	dbSNP	12	60173356	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs3764043	dbSNP	12	21488004	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3775291	dbSNP	4	187004074	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3780126	dbSNP	8	63949912	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs3780412	dbSNP	9	4572480	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs3780413	dbSNP	9	4567353	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs3782905	dbSNP	12	48266167	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs3789243	dbSNP	7	87220886	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs37973	dbSNP	7	8007876	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs3800373	dbSNP	6	35542476	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	C	
+rs3803300	dbSNP	14	105269779	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs3807375	dbSNP	7	150667210	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs3808607	dbSNP	8	59412924	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	G	
+rs3812718	dbSNP	2	166909544	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3813928	dbSNP	X	113818282	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs3813929	dbSNP	X	113818520	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3814055	dbSNP	3	119500035	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3815459	dbSNP	7	150644394	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3834935	dbSNP	12	21069529	Variants (including SNPs and indels) imported from dbSNP	1	-/A		A	
+rs3842	dbSNP	7	87133366	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs3842689	dbSNP	3	119501400	Variants (including SNPs and indels) imported from dbSNP	1	GAGAAG/-			
+rs3842787	dbSNP	9	125133507	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3846662	dbSNP	5	74651084	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs3849942	dbSNP	9	27543281	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs3892097	dbSNP	22	42524947	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3909184	dbSNP	6	30699384	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	C	
+rs391300	dbSNP	17	2216258	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs3918242	dbSNP	20	44635976	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3918290	dbSNP	1	97915614	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs3957357	dbSNP	6	52668687	Variants (including SNPs and indels) imported from dbSNP	1	A/G			
+rs396991	dbSNP	1	161514542	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	C	
+rs402007	dbSNP	21	28217320	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs4073	dbSNP	4	74606024	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs4084090	dbSNP	6	31218835	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs4086116	dbSNP	10	96707202	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs4124874	dbSNP	2	234665659	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	T	
+rs41291556	dbSNP	10	96535173	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs41303343	dbSNP	7	99250394	Variants (including SNPs and indels) imported from dbSNP	1	-/A		A	
+rs41313691	dbSNP	3	38645522	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	non-pathogenic
+rs41315493	dbSNP	3	38592012	Variants (including SNPs and indels) imported from dbSNP	1	C/A/T	C	A	non-pathogenic,probable-non-pathogenic
+rs4148323	dbSNP	2	234669144	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	other,pathogenic
+rs4148350	dbSNP	16	16170477	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	T	
+rs4148356	dbSNP	16	16177275	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs4148396	dbSNP	10	101591944	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs4148808	dbSNP	7	87105795	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs4148866	dbSNP	12	123425575	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4148943	dbSNP	10	73769507	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs4148945	dbSNP	10	73769590	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4148947	dbSNP	10	73770117	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs4148950	dbSNP	10	73771706	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs4148977	dbSNP	12	21488748	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs4148978	dbSNP	12	21488675	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs4148981	dbSNP	12	21487068	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs4149015	dbSNP	12	21283322	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs4149032	dbSNP	12	21317791	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs4149056	dbSNP	12	21331549	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs4149081	dbSNP	12	21378021	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs4149117	dbSNP	12	21011480	Variants (including SNPs and indels) imported from dbSNP	1	T/G		T	
+rs4149118	dbSNP	12	21011581	Variants (including SNPs and indels) imported from dbSNP	1	G/A		G	
+rs4149297	dbSNP	9	107604104	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs4149601	dbSNP	18	55816791	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs41557318	dbSNP	21	37443349	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4243761	dbSNP	15	26282791	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	G	
+rs4244285	dbSNP	10	96541616	Variants (including SNPs and indels) imported from dbSNP	1	G/A/C	G	A	
+rs4245150	dbSNP	11	113364647	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	G	
+rs425215	dbSNP	21	43707101	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs4253778	dbSNP	22	46630634	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	C	
+rs4261716	dbSNP	2	234593117	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs4267385	dbSNP	17	61583756	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs4284427	dbSNP	12	39955802	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs4285917	dbSNP	12	39901865	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs4292956	dbSNP	1	154548946	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs429358	dbSNP	19	45411941	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	pathogenic
+rs4341	dbSNP	17	61565990	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs4343	dbSNP	17	61566031	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs4355801	dbSNP	8	119923873	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs437943	dbSNP	4	35372098	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs4402960	dbSNP	3	185511687	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs4410790	dbSNP	7	17284577	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs4436578	dbSNP	11	113306765	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs4444903	dbSNP	4	110834110	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs445925	dbSNP	19	45415640	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs4459610	dbSNP	17	61584720	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs4506565	dbSNP	10	114756041	Variants (including SNPs and indels) imported from dbSNP	1	A/T	T	T	
+rs4512905	dbSNP	12	52051130	Variants (including SNPs and indels) imported from dbSNP	1	T/C		T	
+rs4532	dbSNP	5	174870150	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs45445694	dbSNP	18	657646	Variants (including SNPs and indels) imported from dbSNP	1	(CCGCGCCACTTGGCCTGCCTCCGTCCCG)2/(CCGCGCCACTTGGCCTGCCTCCGTCCCG)3/(CCGCGCCACTTGGCCTGCCTCCGTCCCG)4/(CCGCGCCACTTGGCCTGCCTCCGTCCCG)7/(CCGCGCCACTTGGCCTGCCTCCGTCCCG)8/(CCGCGCCACTTGGCCTGCCTCCGTCCCG)9			
+rs45482602	dbSNP	19	41515255	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C		
+rs45511401	dbSNP	16	16173232	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs4553808	dbSNP	2	204731005	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs4557343	dbSNP	4	70350006	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	T	
+rs4567028	dbSNP	8	21580010	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs4606	dbSNP	1	192781172	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	G	
+rs4630	dbSNP	22	24376322	Variants (including SNPs and indels) imported from dbSNP	1	G/A		G	
+rs4646	dbSNP	15	51502844	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	A	
+rs4646316	dbSNP	22	19952132	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4646421	dbSNP	15	75016192	Variants (including SNPs and indels) imported from dbSNP	1	G/A/C/T	G	A	
+rs4646425	dbSNP	15	75043281	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4646427	dbSNP	15	75045692	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs4646437	dbSNP	7	99365083	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs4646440	dbSNP	7	99360870	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs4646457	dbSNP	7	99245080	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	C	
+rs4646458	dbSNP	7	99245013	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	G	
+rs4646487	dbSNP	1	47279175	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4648276	dbSNP	1	186645488	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs4648317	dbSNP	11	113331532	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs4653436	dbSNP	1	225995211	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs4673	dbSNP	16	88713236	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	non-pathogenic
+rs4673993	dbSNP	2	216212339	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs4675690	dbSNP	2	208507807	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs4680	dbSNP	22	19951271	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	non-pathogenic
+rs4686799	dbSNP	3	186451236	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs4693075	dbSNP	4	84192168	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	G	
+rs470119	dbSNP	22	50966914	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs4713916	dbSNP	6	35669983	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs4731426	dbSNP	7	127882070	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs4762	dbSNP	1	230845977	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs4773866	dbSNP	13	95929326	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4785367	dbSNP	16	49956194	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs4795541	dbSNP	17	28564360	Variants (including SNPs and indels) imported from dbSNP	1	A/G			
+rs4796793	dbSNP	17	40542210	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs4799915	dbSNP	18	34928639	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs4822492	dbSNP	22	24843594	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs4825476	dbSNP	X	122441479	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs4834232	dbSNP	4	129024273	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4846051	dbSNP	1	11854457	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs4877847	dbSNP	9	86946417	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	A	
+rs4880	dbSNP	6	160113872	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	non-pathogenic,other
+rs4886410	dbSNP	15	75065644	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs4888024	dbSNP	16	79439374	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs4898437	dbSNP	X	153015953	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4898439	dbSNP	X	153027633	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	C	
+rs490332	dbSNP	5	176165086	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs4920037	dbSNP	21	44481891	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs4932551	dbSNP	15	92071958	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs4933824	dbSNP	10	83819125	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	T	
+rs495828	dbSNP	9	136154867	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs4958381	dbSNP	5	154030867	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs4961	dbSNP	4	2906707	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	other
+rs4961252	dbSNP	8	142104944	Variants (including SNPs and indels) imported from dbSNP	1	A/G	T	A	
+rs4970722	dbSNP	1	98352053	Variants (including SNPs and indels) imported from dbSNP	1	A/T	T	A	
+rs4984241	dbSNP	15	63623463	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs4986790	dbSNP	9	120475302	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	other,pathogenic
+rs4986891	dbSNP	19	41354629	Variants (including SNPs and indels) imported from dbSNP	1	C/A/T			
+rs4986893	dbSNP	10	96540410	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	pathogenic
+rs4986907	dbSNP	7	99367427	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4986908	dbSNP	7	99367392	Variants (including SNPs and indels) imported from dbSNP	1	C/G/T	C	G	
+rs4986909	dbSNP	7	99359670	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		
+rs4986910	dbSNP	7	99358524	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs4986913	dbSNP	7	99358459	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		
+rs4986938	dbSNP	14	64699816	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs4987121	dbSNP	21	37518679	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs4987161	dbSNP	7	99366081	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A		
+rs4994	dbSNP	8	37823798	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	other
+rs5009910	dbSNP	2	31249014	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs5030062	dbSNP	3	186454180	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs5030655	dbSNP	22	42525086	Variants (including SNPs and indels) imported from dbSNP	1	A/-	A	-	
+rs5030865	dbSNP	22	42525035	Variants (including SNPs and indels) imported from dbSNP	1	C/A/T	C	T	pathogenic
+rs5030868	dbSNP	X	153762634	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		other
+rs5030952	dbSNP	2	241542703	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs5031016	dbSNP	19	41349774	Variants (including SNPs and indels) imported from dbSNP	1	A/G		G	
+rs5031017	dbSNP	19	41349750	Variants (including SNPs and indels) imported from dbSNP	1	C/A			
+rs5065	dbSNP	1	11906068	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs506770	dbSNP	6	31785228	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	G	
+rs510769	dbSNP	6	154362019	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs5128	dbSNP	11	116703640	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs518147	dbSNP	X	113818582	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	C	
+rs5182	dbSNP	3	148459395	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs518329	dbSNP	X	23695236	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs5186	dbSNP	3	148459988	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs5215	dbSNP	11	17408630	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs5219	dbSNP	11	17409572	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	drug-response,non-pathogenic,other
+rs5272	dbSNP	1	186643837	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T		
+rs5273	dbSNP	1	186643768	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs5275	dbSNP	1	186643058	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs532545	dbSNP	1	20915172	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs533556	dbSNP	11	116741572	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs5370	dbSNP	6	12296255	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	other
+rs5442	dbSNP	12	6954864	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs5443	dbSNP	12	6954875	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs555754	dbSNP	6	160769423	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs5569	dbSNP	16	55731835	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs55754655	dbSNP	2	201526330	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs55918055	dbSNP	6	160543229	Variants (including SNPs and indels) imported from dbSNP	1	T/A/C	T	C	
+rs560018	dbSNP	1	110200360	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs56038477	dbSNP	1	98039419	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs562	dbSNP	3	183637845	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs56256500	dbSNP	19	41354171	Variants (including SNPs and indels) imported from dbSNP	1	G/A/T		A	
+rs56337013	dbSNP	10	96612495	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C		pathogenic
+rs569207	dbSNP	15	78873119	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs57098334	dbSNP	17	28548596	Variants (including SNPs and indels) imported from dbSNP	1	(AGCCCACCC)9/(AGCCCACCC)10/(AGCCCACCC)12	C		
+rs5751862	dbSNP	22	24802564	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs5751876	dbSNP	22	24837301	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs5760405	dbSNP	22	24813841	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs5760410	dbSNP	22	24815406	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs578776	dbSNP	15	78888400	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs58425034	dbSNP	19	41514965	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G		
+rs58597806	dbSNP	2	234581346	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs586773	dbSNP	11	73696610	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs5906072	dbSNP	X	45640507	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs591758	dbSNP	11	73698060	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs5918	dbSNP	17	45360730	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	non-pathogenic,other,pathogenic
+rs5934731	dbSNP	X	9935844	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs5977250	dbSNP	X	129506392	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs5996696	dbSNP	22	24827622	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	C	
+rs602633	dbSNP	1	109821511	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	T	
+rs6028945	dbSNP	20	38820805	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs602950	dbSNP	1	20915531	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs60369023	dbSNP	1	20931474	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs6071980	dbSNP	20	38868576	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs6072262	dbSNP	20	39704995	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs6113	dbSNP	14	95053849	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs61162043	dbSNP	16	31114234	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs6138150	dbSNP	20	23847009	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs6151031	dbSNP	9	75568384	Variants (including SNPs and indels) imported from dbSNP	1	-/CTGGTGAGGAGAGAACC		-	
+rs6166	dbSNP	2	49189921	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	drug-response,other
+rs61750900	dbSNP	4	69681936	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs61764370	dbSNP	12	25360224	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs61888800	dbSNP	11	27722278	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs622342	dbSNP	6	160572866	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	C	
+rs6265	dbSNP	11	27679916	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	other
+rs6275	dbSNP	11	113283477	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs6276	dbSNP	11	113281397	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs6277	dbSNP	11	113283459	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs6280	dbSNP	3	113890815	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	other
+rs628031	dbSNP	6	160560845	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs6295	dbSNP	5	63258565	Variants (including SNPs and indels) imported from dbSNP	1	C/G	G	C	
+rs6296	dbSNP	6	78172260	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs6305	dbSNP	13	47466622	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs6311	dbSNP	13	47471478	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs6313	dbSNP	13	47469940	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs6314	dbSNP	13	47409034	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs6318	dbSNP	X	113965735	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	non-pathogenic
+rs6413432	dbSNP	10	135348544	Variants (including SNPs and indels) imported from dbSNP	1	T/A		A	
+rs6413438	dbSNP	10	96541615	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C		
+rs6438552	dbSNP	3	119631814	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs6458232	dbSNP	6	41629726	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	A	
+rs6493497	dbSNP	15	51630835	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs649446	dbSNP	11	73695845	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs6511720	dbSNP	19	11202306	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs6539870	dbSNP	12	85243681	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs655717	dbSNP	11	73684215	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs659366	dbSNP	11	73694754	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs660339	dbSNP	11	73689104	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs6603859	dbSNP	1	16706075	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	G	
+rs662	dbSNP	7	94937446	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	other
+rs662799	dbSNP	11	116663707	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs66554220	dbSNP	6	29798583	Variants (including SNPs and indels) imported from dbSNP	1	-/ATTTGTTCATGCCT			
+rs6679677	dbSNP	1	114303808	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs668514	dbSNP	11	73706514	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs6702335	dbSNP	1	29411250	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs6721498	dbSNP	2	50713012	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs6721961	dbSNP	2	178130037	Variants (including SNPs and indels) imported from dbSNP	1	T/C/G	G	T	
+rs6731242	dbSNP	2	234578693	Variants (including SNPs and indels) imported from dbSNP	1	T/G		G	
+rs67376798	dbSNP	1	97547947	Variants (including SNPs and indels) imported from dbSNP	1	T/A	T	A	
+rs6752303	dbSNP	2	31247485	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs6755571	dbSNP	2	234627536	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs6759892	dbSNP	2	234601669	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	G	
+rs6791924	dbSNP	3	38674699	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	non-pathogenic
+rs680244	dbSNP	15	78871288	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs6822259	dbSNP	4	70003963	Variants (including SNPs and indels) imported from dbSNP	1	T/C		C	
+rs6848982	dbSNP	4	128959213	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs686	dbSNP	5	174868700	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs688	dbSNP	19	11227602	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs6897932	dbSNP	5	35874575	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs6907567	dbSNP	6	110777962	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs6917661	dbSNP	6	154721557	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs6920220	dbSNP	6	138006504	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs6922548	dbSNP	6	35353523	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs6956344	dbSNP	7	99359151	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs6962291	dbSNP	7	139671117	Variants (including SNPs and indels) imported from dbSNP	1	T/A	A	A	
+rs6968865	dbSNP	7	17287269	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs6977820	dbSNP	7	154072020	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs698078	dbSNP	3	186459227	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs699	dbSNP	1	230845794	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	other
+rs699947	dbSNP	6	43736389	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	A	
+rs7046653	dbSNP	9	27490967	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs706895	dbSNP	6	112041359	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs7079	dbSNP	1	230838331	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs7080681	dbSNP	10	101560169	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs708272	dbSNP	16	56996288	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs7089580	dbSNP	10	96705223	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	T	
+rs70991108	dbSNP	5	79950164	Variants (including SNPs and indels) imported from dbSNP	1	-/TGGCGCGTCCCGCCCAGGT			
+rs7121	dbSNP	20	57478807	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs712829	dbSNP	7	55086755	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs7131224	dbSNP	11	24247531	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs7142881	dbSNP	14	32093548	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs714368	dbSNP	6	110778128	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs71486745	dbSNP	10	96695776	Variants (including SNPs and indels) imported from dbSNP	1	GT/-			
+rs7149097	dbSNP	14	103539669	Variants (including SNPs and indels) imported from dbSNP	1	A/G		A	
+rs715171	dbSNP	X	9341848	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs71651683	dbSNP	22	24828853	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs7170769	dbSNP	15	92070205	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs7176005	dbSNP	15	51631279	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs717620	dbSNP	10	101542578	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs7196161	dbSNP	16	31110981	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs723685	dbSNP	6	110763875	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs7242	dbSNP	7	100781445	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	G	
+rs724226	dbSNP	7	86325374	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs72547516	dbSNP	15	75044578	Variants (including SNPs and indels) imported from dbSNP	1	A/G/T	A		
+rs72547517	dbSNP	15	75047245	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		
+rs72551344	dbSNP	2	234669631	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T		
+rs72551372	dbSNP	3	119530472	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		
+rs72551374	dbSNP	3	119530542	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A		
+rs72552713	dbSNP	4	89052957	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs72552763	dbSNP	6	160560883	Variants (including SNPs and indels) imported from dbSNP	1	GAT/-			
+rs72552784	dbSNP	7	87145914	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C		
+rs72554665	dbSNP	X	153760484	Variants (including SNPs and indels) imported from dbSNP	1	C/A/G	C	A	other
+rs727957	dbSNP	21	35880072	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs729147	dbSNP	4	100333267	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs7294	dbSNP	16	31102321	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs7295250	dbSNP	12	2776943	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs7297610	dbSNP	12	69824024	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs730012	dbSNP	5	179220638	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs7301408	dbSNP	12	29358567	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	T	
+rs730720	dbSNP	10	73772762	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs7311358	dbSNP	12	21015760	Variants (including SNPs and indels) imported from dbSNP	1	G/A		G	
+rs731236	dbSNP	12	48238757	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs7319981	dbSNP	13	103723722	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs7325568	dbSNP	13	40818284	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs735482	dbSNP	19	45912002	Variants (including SNPs and indels) imported from dbSNP	1	A/C	C	C	
+rs7387	dbSNP	5	79924791	Variants (including SNPs and indels) imported from dbSNP	1	T/A	A		
+rs7412	dbSNP	19	45412079	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	pathogenic
+rs742105	dbSNP	6	15573074	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs7438135	dbSNP	4	69961339	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs7438284	dbSNP	4	69964337	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	A	
+rs7439366	dbSNP	4	69964338	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs747199	dbSNP	6	44194345	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs7483	dbSNP	1	110279701	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs750155	dbSNP	16	28620572	Variants (including SNPs and indels) imported from dbSNP	1	C/T		T	
+rs750332	dbSNP	6	31607050	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs75519181	dbSNP	7	17378908	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs7569963	dbSNP	2	208473184	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs757092	dbSNP	11	2499178	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs757110	dbSNP	11	17418477	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	C	
+rs7586110	dbSNP	2	234590527	Variants (including SNPs and indels) imported from dbSNP	1	T/G		G	
+rs7608731	dbSNP	2	31249974	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs762551	dbSNP	15	75041917	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	C	
+rs7626962	dbSNP	3	38620907	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	non-pathogenic,other,pathogenic
+rs763780	dbSNP	6	52101739	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs7668258	dbSNP	4	69962078	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs7668282	dbSNP	4	69962114	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs7712169	dbSNP	5	12383942	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs7725278	dbSNP	5	174760947	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs774359	dbSNP	9	27561049	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs776746	dbSNP	7	99270539	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs7769719	dbSNP	6	35362525	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs7771466	dbSNP	6	52104109	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs77905	dbSNP	9	136518097	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs7793837	dbSNP	7	30726777	Variants (including SNPs and indels) imported from dbSNP	1	A/T	T	T	
+rs7799039	dbSNP	7	127878783	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs7853758	dbSNP	9	86900926	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs7877	dbSNP	1	171254890	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs7900194	dbSNP	10	96702066	Variants (including SNPs and indels) imported from dbSNP	1	G/A/T	G	A	
+rs7903146	dbSNP	10	114758349	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs7929521	dbSNP	11	20594783	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs7945189	dbSNP	11	102660564	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs7952081	dbSNP	11	67324933	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs7972	dbSNP	14	77793237	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs7975	dbSNP	14	77793207	Variants (including SNPs and indels) imported from dbSNP	1	G/A/C/T	G	A	
+rs7975232	dbSNP	12	48238837	Variants (including SNPs and indels) imported from dbSNP	1	C/A	C	A	
+rs7977213	dbSNP	12	20980800	Variants (including SNPs and indels) imported from dbSNP	1	G/C	C	G	
+rs7992226	dbSNP	13	101797840	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs7997012	dbSNP	13	47411985	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs8012552	dbSNP	14	96688767	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs8016905	dbSNP	14	96675933	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs8034191	dbSNP	15	78806023	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs8050136	dbSNP	16	53816275	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	A	
+rs8050894	dbSNP	16	31104509	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	C	
+rs806374	dbSNP	6	88857320	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs8087522	dbSNP	18	58040478	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs8099917	dbSNP	19	39743165	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs8103142	dbSNP	19	39735106	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs8133052	dbSNP	21	37507501	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs814951	dbSNP	1	190531999	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs8175347	dbSNP	2	234668881	Variants (including SNPs and indels) imported from dbSNP	1	(TA)5/(TA)6/(TA)7/(TA)8	T		
+rs8176746	dbSNP	9	136131322	Variants (including SNPs and indels) imported from dbSNP	1	G/T	G	T	
+rs8177516	dbSNP	6	160664685	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs8187710	dbSNP	10	101611294	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs8187725	dbSNP	6	160858154	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C		
+rs8192440	dbSNP	12	107395106	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs8192709	dbSNP	19	41497274	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs8192720	dbSNP	19	41356310	Variants (including SNPs and indels) imported from dbSNP	1	G/A		A	
+rs8192725	dbSNP	19	41354712	Variants (including SNPs and indels) imported from dbSNP	1	A/G		A	
+rs8192726	dbSNP	19	41354496	Variants (including SNPs and indels) imported from dbSNP	1	C/A		A	
+rs8192766	dbSNP	10	135339385	Variants (including SNPs and indels) imported from dbSNP	1	T/G	G	G	
+rs8192924	dbSNP	16	66974399	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G		
+rs833061	dbSNP	6	43737486	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	C	
+rs841698	dbSNP	1	95018519	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	T	
+rs852977	dbSNP	5	142687494	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	G	
+rs854547	dbSNP	7	94923856	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs854548	dbSNP	7	94925820	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs854555	dbSNP	7	94930391	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs854560	dbSNP	7	94946084	Variants (including SNPs and indels) imported from dbSNP	1	A/C/G/N/T	A	T	other
+rs861539	dbSNP	14	104165753	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	other
+rs868856	dbSNP	9	27489251	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs870995	dbSNP	3	178913006	Variants (including SNPs and indels) imported from dbSNP	1	C/A	A	A	
+rs878949	dbSNP	1	22227091	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs881152	dbSNP	5	172198555	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs885004	dbSNP	9	86909550	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs889299	dbSNP	16	23381914	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs890	dbSNP	12	13715308	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs892940	dbSNP	3	24538838	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	A	
+rs899494	dbSNP	13	95861804	Variants (including SNPs and indels) imported from dbSNP	1	A/G	G	A	
+rs9024	dbSNP	21	37445313	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs909706	dbSNP	6	15660871	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	T	
+rs921451	dbSNP	7	50623285	Variants (including SNPs and indels) imported from dbSNP	1	T/C	C	C	
+rs9263726	dbSNP	6	31106499	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9263733	dbSNP	6	31108829	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs9263745	dbSNP	6	31113326	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9263781	dbSNP	6	31123416	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs9263785	dbSNP	6	31125823	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs9263794	dbSNP	6	31130019	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs9263796	dbSNP	6	31132883	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs9263800	dbSNP	6	31134599	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9263827	dbSNP	6	31149045	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs9267445	dbSNP	6	31483481	Variants (including SNPs and indels) imported from dbSNP	1	G/C	G	C	
+rs9272105	dbSNP	6	32599999	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	G	
+rs9274407	dbSNP	6	32632832	Variants (including SNPs and indels) imported from dbSNP	1	A/T	A	A	
+rs9282564	dbSNP	7	87229440	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs9282861	dbSNP	16	28617514	Variants (including SNPs and indels) imported from dbSNP	1	C/T		T	
+rs928655	dbSNP	1	89849574	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	G	
+rs9316233	dbSNP	13	47433355	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs931635	dbSNP	4	100210847	Variants (including SNPs and indels) imported from dbSNP	1	A/G		A	
+rs9332131	dbSNP	10	96709039	Variants (including SNPs and indels) imported from dbSNP	1	A/-	A		
+rs9332239	dbSNP	10	96748777	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs9332377	dbSNP	22	19955692	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs9340799	dbSNP	6	152163381	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs9344	dbSNP	11	69462910	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9345389	dbSNP	6	94440604	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs9349256	dbSNP	6	43404511	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9357155	dbSNP	6	32809848	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9394952	dbSNP	6	43401105	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9395206	dbSNP	6	46638422	Variants (including SNPs and indels) imported from dbSNP	1	T/A	A	T	
+rs9424490	dbSNP	1	233021870	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs943580	dbSNP	1	230837044	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9450278	dbSNP	6	86158342	Variants (including SNPs and indels) imported from dbSNP	1	G/A	A	A	
+rs9479757	dbSNP	6	154411344	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9514091	dbSNP	13	103714254	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs951436	dbSNP	1	163033342	Variants (including SNPs and indels) imported from dbSNP	1	A/C	A	C	
+rs951439	dbSNP	1	163033691	Variants (including SNPs and indels) imported from dbSNP	1	C/T	C	T	
+rs9561778	dbSNP	13	95713715	Variants (including SNPs and indels) imported from dbSNP	1	G/A/T	G	T	
+rs9597	dbSNP	16	1374951	Variants (including SNPs and indels) imported from dbSNP	1	C/G	C	G	
+rs963468	dbSNP	3	113862887	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs9657182	dbSNP	8	39765848	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	C	
+rs9679162	dbSNP	2	31247514	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	G	
+rs971363	dbSNP	18	11980460	Variants (including SNPs and indels) imported from dbSNP	1	T/G	T	G	
+rs983332	dbSNP	1	88132380	Variants (including SNPs and indels) imported from dbSNP	1	G/T	T	T	
+rs9895420	dbSNP	17	48712038	Variants (including SNPs and indels) imported from dbSNP	1	T/A	A	A	
+rs9923231	dbSNP	16	31107689	Variants (including SNPs and indels) imported from dbSNP	1	C/A/G/T	C	T	
+rs9934438	dbSNP	16	31104878	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	
+rs993648	dbSNP	2	182455994	Variants (including SNPs and indels) imported from dbSNP	1	C/T	T	T	
+rs9937	dbSNP	11	4159457	Variants (including SNPs and indels) imported from dbSNP	1	A/G	A	G	
+rs9981861	dbSNP	21	41415044	Variants (including SNPs and indels) imported from dbSNP	1	T/C	T	C	
+rs9993633	dbSNP	4	71863610	Variants (including SNPs and indels) imported from dbSNP	1	G/A	G	A	

@@ -1,0 +1,13 @@
+PyVCF.egg-info
+build
+dist
+*.pyc
+docs/_build
+.ropeproject
+1kg.prof
+.noseids
+.tox
+.DS_Store
+vcf/cparse.c
+vcf/cparse.so
+.coverage

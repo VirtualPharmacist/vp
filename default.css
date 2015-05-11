@@ -1,0 +1,509 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+.upload
+{
+font-weight:bold;
+font-size:14px;
+color:#017604;
+}
+body 
+{
+	margin: 0;
+	padding: 0;
+	background: #47C6D3 url(images/img041.gif) repeat-x;
+	
+}
+
+body, th, td, input, textarea {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color:#666;
+}
+body b
+{
+	font-size: 18px;	
+	color:#000;
+}
+p, ol, ul {
+	line-height: 170%;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+/* Header */
+
+#header {
+	background-color:#FFFFFF;
+	width:1290px;
+	height: 120px;
+	margin: 0 auto;
+}
+
+#logo {
+	float: left;
+	height: 120px;
+	margin-left: 10px;
+	background: url(images/img01.jpg) no-repeat left center;
+
+}
+#header1 {
+	background-color:#FFFFFF;
+	width:1290px;
+	height: 120px;
+	margin: 10 auto;
+}
+
+#logo1 {
+	float: left;
+	height: 120px;
+	margin-left: 10px;
+	background: url(images/img01.jpg) no-repeat left center;
+
+}
+
+#logo h1, #logo p {
+	text-transform: lowercase;
+
+}
+
+#logo h1 {
+	margin: 0;
+	padding: 25px 0 0 85px;
+	letter-spacing: -2px;
+	font-size: 3em;
+	font-weight: bold;
+	color: #000000;
+}
+
+#logo h1 a {
+	color: #000000;
+}
+
+#logo p {
+	margin: -10px 0 0 2px;
+	padding: 0 0 0 85px;
+	text-transform: lowercase;
+}
+#logo1 h1, #logo1 p {
+	text-transform: lowercase;
+
+}
+
+#logo1 h1 {
+	margin: 0;
+	padding: 25px 0 0 85px;
+	letter-spacing: -2px;
+	font-size: 3em;
+	font-weight: bold;
+	color: #000000;
+}
+
+#logo1 h1 a {
+	color: #000000;
+}
+
+#logo1 p {
+	margin: -10px 0 0 2px;
+	padding: 0 0 0 85px;
+	text-transform: lowercase;
+}
+
+
+#search {
+	float: right;
+	width: 280px;
+}
+
+#search form {
+	margin: 0;
+	padding: 63px 0 0 0;
+}
+
+#search fieldset {
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+#search #s, #search #x {
+	float: left;
+}
+
+#search #s {
+	width: 188px;
+	margin: 2px 6px 0 0;
+	padding: 2px 5px;
+	background: url(images/img02.gif) repeat-x;
+	border: 1px solid #ACACAC;
+}
+
+#search #x {
+	width: 67px;
+	height: 28px;
+	padding: 0;
+	background: #006BFF url(images/img03.gif) no-repeat;
+	border: none;
+	text-transform: lowercase;
+	color: #FFFFFF;
+}
+
+/* menu1 */
+
+#menu1 {
+	width: 1290px;
+	height: 50px;
+	margin: 0 auto;
+	font-size:20px;
+	font-stretch:ultra-expanded;
+}
+
+#menu1 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#menu1 li {
+	display: block;
+	float: left;
+}
+
+#menu1 a {
+	display: block;
+	float: left;
+	height: 38px;
+	padding: 8px 20px 0 20px;
+	text-decoration: none;
+	text-transform: capitalize;
+	color: #000000;
+}
+
+#menu1 a:hover {
+	text-decoration:none;
+	background-image:url(images/img0511.gif);
+	background-repeat:no-repeat;
+}
+
+#menu1 .current_page_item {
+	background: url(images/img0511.gif) no-repeat;
+}
+
+#menu1 .current_page_item a {
+	background: url(images/img061.gif) no-repeat right top;
+	font-weight: bold;
+}
+#menu {
+	width: 1290px;
+	height: 50px;
+	margin: 0 auto;
+	font-size:20px;
+	font-stretch:ultra-expanded;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#menu li {
+	display: block;
+	float: left;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	height: 38px;
+	padding: 8px 20px 0 20px;
+	text-decoration: none;
+	text-transform: capitalize;
+	color: #000000;
+}
+
+#menu a:hover {
+	text-decoration:none;
+	background-image:url(images/img0511.gif);
+	background-repeat:no-repeat;
+}
+
+#menu .current_page_item {
+	background: url(images/img0511.gif) no-repeat;
+}
+
+#menu .current_page_item a {
+	background: url(images/img061.gif) no-repeat right top;
+	font-weight: bold;
+}
+/* Page */
+
+#page {
+	width: 1289px;
+	margin: 0 auto;
+	background: #FFFFFF url(images/img07.gif) repeat-y;
+}
+
+/* Content */
+
+#content {
+	float: right;
+	width: 1029px;
+	padding: 11px 11px 0 5px;
+	background: url(images/img09.gif) no-repeat;
+}
+
+
+#content a {
+	color:#479FDE;
+	text-decoration:none;
+}
+#content a:hover
+{
+	color:#479FDE;
+	font-weight:bold;
+}
+
+.pagetitle {
+	height: 33px;
+	margin: 0;
+	padding: 8px 0 0 15px;
+	background: url(images/img131.gif) no-repeat;
+	font-size: 1.0em;
+	color: #FFFFFF;
+}
+.pagetitle a
+{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+.pagetitle a:hover
+{
+	text-decoration:underline;
+}
+#content #rss-posts {
+	display: block;
+	margin: -30px 15px 0px 0px;
+	padding: 0 20px 0 0;
+
+	text-align: right;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.post {
+	padding:0px 30px 0 30px;
+	widows:1100px;
+}
+
+.name
+{
+font-size:16px;
+font-weight:bold;
+font-family:"ºÚÌå"}
+.p
+{
+font-size:16px;
+}
+
+.title {
+  #text-shadow: #AAA 0px 0px 5px;
+  font-family:Georgia, "Times New Roman", Times, serif;
+  font-size:30px;
+  line-height:28px;
+  font-style:normal;
+  color:#606;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-weight:bolder;
+}
+
+.byline {
+	margin: 0 0 20px 0;
+}
+
+.meta {
+	border-bottom: 1px dotted #CCCCCC;
+	
+	text-align: right;
+}
+.outline1
+{
+	width:900px;
+	font-size:28px;
+	float:left;
+}
+.outline ol li
+{
+	font-size:18px;
+}
+.meta .more, .meta .comments {
+	padding-left: 15px;
+	background: url(images/img14.psd) no-repeat left center;
+}
+
+/* Sidebar */
+
+#sidebar {
+	float: left;
+	width: 227px;
+	padding: 11px 5px 0 11px;
+	background: url(images/img08.gif) no-repeat;
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#sidebar li {
+	margin-bottom: 20px;
+}
+
+#sidebar li ul {
+	padding: 10px 15px;
+}
+
+#sidebar li li {
+	margin: 0;
+	padding-left: 15px;
+	background: url(images/img12.gif) no-repeat left center;
+}
+.title
+{
+	color:#000;
+}
+#sidebar h2 {
+	height: 33px;
+	margin: 0;
+	padding: 8px 0 0 15px;
+	background: url(images/img11.gif) no-repeat;
+	font-size: 1.4em;
+	color: #FFFFFF;
+}
+
+#sidebar a {
+	text-decoration: none;
+	color: #0065FF;
+}
+
+#sidebar a:hover {	
+	text-decoration: underline;
+}
+
+/* Footer */
+
+#footer {
+	width: 1288px;
+	margin: 0 auto;
+	padding: 30px 0;
+	background: url(images/img10.gif) no-repeat;
+}
+
+#footer p {
+	margin: 0;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#footer a {
+	color: #FFFFFF;
+}
+.table
+{
+	padding:0px 0px 0px 0px;
+	list-style:none;
+}
+.table li
+{
+
+	float:left;
+}
+.table li.rsid
+{
+	width:110px;
+}
+.table li.efficacy
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;	
+	width:115px;
+}
+.table li.dosage
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width:115px;
+}
+.table li.toxicity
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width:115px;
+}
+.table li.level
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width:170px;
+	
+}
+.table li font
+{
+	font-size:18px;
+	font-weight:bold;
+	color:#000;
+}
+.asd
+{
+	font-size:18px;
+	color:#F00;
+	visibility:hidden;
+	
+}
+.hengxian
+{
+	border-bottom:thin;
+	border-bottom-color:#999;
+}
+.table li.moreinfo
+{
+	text-align:center;
+	margin-left: auto;
+	margin-right: auto;	
+	width:100px;
+}
+.table li.genotype
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width:125px;
+}
+.table li.gene
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width:100px;
+}
+.entry
+{
+	padding: 0px 0px 0 0px;
+	windows:1100px;
+
+}
+.guidance
+{
+	padding: 0px 30px 0 30px;
+}

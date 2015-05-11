@@ -1,0 +1,1127 @@
+<graph name="Mybionet Network" type="directed">
+<Node id="Ace Inhibitors, Plain--PA164712308" type="complex" name="Ace Inhibitors, Plain--PA164712308" desc="" subcellular="Extracellular" link=""/>
+<Node id="BDKRB2" type="DNA" name="BDKRB2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1799722" type="SNP" name="rs1799722" desc="" subcellular="" link=""/>
+<Edge fromID="rs1799722" toID="BDKRB2" type="positive" size="" desc=""/>
+<Edge fromID="BDKRB2" toID="Ace Inhibitors, Plain--PA164712308" type="positive" size="" desc=""/>
+<Node id="Ace Inhibitors, Plain--PA164712308" type="complex" name="Ace Inhibitors, Plain--PA164712308" desc="" subcellular="Extracellular" link=""/>
+<Node id="MME" type="DNA" name="MME" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2016848" type="SNP" name="rs2016848" desc="" subcellular="" link=""/>
+<Edge fromID="rs2016848" toID="MME" type="positive" size="" desc=""/>
+<Edge fromID="MME" toID="Ace Inhibitors, Plain--PA164712308" type="positive" size="" desc=""/>
+<Node id="Alkylating Agents--PA164712331" type="complex" name="Alkylating Agents--PA164712331" desc="" subcellular="Extracellular" link=""/>
+<Node id="EGFR" type="DNA" name="EGFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs712829" type="SNP" name="rs712829" desc="" subcellular="" link=""/>
+<Edge fromID="rs712829" toID="EGFR" type="positive" size="" desc=""/>
+<Edge fromID="EGFR" toID="Alkylating Agents--PA164712331" type="positive" size="" desc=""/>
+<Node id="Analgesics--PA164712362" type="complex" name="Analgesics--PA164712362" desc="" subcellular="Extracellular" link=""/>
+<Node id="KCNJ6" type="DNA" name="KCNJ6" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2070995" type="SNP" name="rs2070995" desc="" subcellular="" link=""/>
+<Edge fromID="rs2070995" toID="KCNJ6" type="positive" size="" desc=""/>
+<Edge fromID="KCNJ6" toID="Analgesics--PA164712362" type="positive" size="" desc=""/>
+<Node id="anthracyclines and related substances--PA130620651" type="complex" name="anthracyclines and related substances--PA130620651" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="anthracyclines and related substances--PA130620651" type="positive" size="" desc=""/>
+<Node id="antidepressants--PA452229" type="complex" name="antidepressants--PA452229" desc="" subcellular="Extracellular" link=""/>
+<Node id="FKBP5" type="DNA" name="FKBP5" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1360780" type="SNP" name="rs1360780" desc="" subcellular="" link=""/>
+<Edge fromID="rs1360780" toID="FKBP5" type="positive" size="" desc=""/>
+<Edge fromID="FKBP5" toID="antidepressants--PA452229" type="positive" size="" desc=""/>
+<Node id="antidepressants--PA452229" type="complex" name="antidepressants--PA452229" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2032583" type="SNP" name="rs2032583" desc="" subcellular="" link=""/>
+<Edge fromID="rs2032583" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="antidepressants--PA452229" type="positive" size="" desc=""/>
+<Node id="antidepressants--PA452229" type="complex" name="antidepressants--PA452229" desc="" subcellular="Extracellular" link=""/>
+<Node id="SERPINE1" type="DNA" name="SERPINE1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2227631" type="SNP" name="rs2227631" desc="" subcellular="" link=""/>
+<Edge fromID="rs2227631" toID="SERPINE1" type="positive" size="" desc=""/>
+<Edge fromID="SERPINE1" toID="antidepressants--PA452229" type="positive" size="" desc=""/>
+<Node id="antidepressants--PA452229" type="complex" name="antidepressants--PA452229" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2235015" type="SNP" name="rs2235015" desc="" subcellular="" link=""/>
+<Edge fromID="rs2235015" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="antidepressants--PA452229" type="positive" size="" desc=""/>
+<Node id="antidepressants--PA452229" type="complex" name="antidepressants--PA452229" desc="" subcellular="Extracellular" link=""/>
+<Node id="FKBP5" type="DNA" name="FKBP5" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs3800373" type="SNP" name="rs3800373" desc="" subcellular="" link=""/>
+<Edge fromID="rs3800373" toID="FKBP5" type="positive" size="" desc=""/>
+<Edge fromID="FKBP5" toID="antidepressants--PA452229" type="positive" size="" desc=""/>
+<Node id="antidepressants--PA452229" type="complex" name="antidepressants--PA452229" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR1A" type="DNA" name="HTR1A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6295" type="SNP" name="rs6295" desc="" subcellular="" link=""/>
+<Edge fromID="rs6295" toID="HTR1A" type="positive" size="" desc=""/>
+<Edge fromID="HTR1A" toID="antidepressants--PA452229" type="positive" size="" desc=""/>
+<Node id="antidepressants--PA452229" type="complex" name="antidepressants--PA452229" desc="" subcellular="Extracellular" link=""/>
+<Node id="CREB1" type="DNA" name="CREB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs7569963" type="SNP" name="rs7569963" desc="" subcellular="" link=""/>
+<Edge fromID="rs7569963" toID="CREB1" type="positive" size="" desc=""/>
+<Edge fromID="CREB1" toID="antidepressants--PA452229" type="positive" size="" desc=""/>
+<Node id="antidepressants--PA452229" type="complex" name="antidepressants--PA452229" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR2A" type="DNA" name="HTR2A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs7997012" type="SNP" name="rs7997012" desc="" subcellular="" link=""/>
+<Edge fromID="rs7997012" toID="HTR2A" type="positive" size="" desc=""/>
+<Edge fromID="HTR2A" toID="antidepressants--PA452229" type="positive" size="" desc=""/>
+<Node id="antiepileptics--PA143485705" type="complex" name="antiepileptics--PA143485705" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="antiepileptics--PA143485705" type="positive" size="" desc=""/>
+<Node id="antiepileptics--PA143485705" type="complex" name="antiepileptics--PA143485705" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCC2" type="DNA" name="ABCC2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs3740066" type="SNP" name="rs3740066" desc="" subcellular="" link=""/>
+<Edge fromID="rs3740066" toID="ABCC2" type="positive" size="" desc=""/>
+<Edge fromID="ABCC2" toID="antiepileptics--PA143485705" type="positive" size="" desc=""/>
+<Node id="antineoplastic agents--PA452621" type="complex" name="antineoplastic agents--PA452621" desc="" subcellular="Extracellular" link=""/>
+<Node id="TP53" type="DNA" name="TP53" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1042522" type="SNP" name="rs1042522" desc="" subcellular="" link=""/>
+<Edge fromID="rs1042522" toID="TP53" type="positive" size="" desc=""/>
+<Edge fromID="TP53" toID="antineoplastic agents--PA452621" type="positive" size="" desc=""/>
+<Node id="antipsychotics--PA452233" type="complex" name="antipsychotics--PA452233" desc="" subcellular="Extracellular" link=""/>
+<Node id="DRD2" type="DNA" name="DRD2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1079598" type="SNP" name="rs1079598" desc="" subcellular="" link=""/>
+<Edge fromID="rs1079598" toID="DRD2" type="positive" size="" desc=""/>
+<Edge fromID="DRD2" toID="antipsychotics--PA452233" type="positive" size="" desc=""/>
+<Node id="antipsychotics--PA452233" type="complex" name="antipsychotics--PA452233" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="antipsychotics--PA452233" type="positive" size="" desc=""/>
+<Node id="antipsychotics--PA452233" type="complex" name="antipsychotics--PA452233" desc="" subcellular="Extracellular" link=""/>
+<Node id="CLCN6" type="DNA" name="CLCN6" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="CLCN6" type="positive" size="" desc=""/>
+<Edge fromID="CLCN6" toID="antipsychotics--PA452233" type="positive" size="" desc=""/>
+<Node id="atenolol--PA448499" type="complex" name="atenolol--PA448499" desc="" subcellular="Extracellular" link=""/>
+<Node id="ADRB1" type="DNA" name="ADRB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801253" type="SNP" name="rs1801253" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801253" toID="ADRB1" type="positive" size="" desc=""/>
+<Edge fromID="ADRB1" toID="atenolol--PA448499" type="positive" size="" desc=""/>
+<Node id="Beta Blocking Agents--PA164712535" type="complex" name="Beta Blocking Agents--PA164712535" desc="" subcellular="Extracellular" link=""/>
+<Node id="ADRB1" type="DNA" name="ADRB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801253" type="SNP" name="rs1801253" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801253" toID="ADRB1" type="positive" size="" desc=""/>
+<Edge fromID="ADRB1" toID="Beta Blocking Agents--PA164712535" type="positive" size="" desc=""/>
+<Node id="Bisphosphonates--PA164712563" type="complex" name="Bisphosphonates--PA164712563" desc="" subcellular="Extracellular" link=""/>
+<Node id="IL1B" type="DNA" name="IL1B" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs16944" type="SNP" name="rs16944" desc="" subcellular="" link=""/>
+<Edge fromID="rs16944" toID="IL1B" type="positive" size="" desc=""/>
+<Edge fromID="IL1B" toID="Bisphosphonates--PA164712563" type="positive" size="" desc=""/>
+<Node id="Bisphosphonates--PA164712563" type="complex" name="Bisphosphonates--PA164712563" desc="" subcellular="Extracellular" link=""/>
+<Node id="FDPS" type="DNA" name="FDPS" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2297480" type="SNP" name="rs2297480" desc="" subcellular="" link=""/>
+<Edge fromID="rs2297480" toID="FDPS" type="positive" size="" desc=""/>
+<Edge fromID="FDPS" toID="Bisphosphonates--PA164712563" type="positive" size="" desc=""/>
+<Node id="bucindolol--PA165945764" type="complex" name="bucindolol--PA165945764" desc="" subcellular="Extracellular" link=""/>
+<Node id="ADRB1" type="DNA" name="ADRB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801253" type="SNP" name="rs1801253" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801253" toID="ADRB1" type="positive" size="" desc=""/>
+<Edge fromID="ADRB1" toID="bucindolol--PA165945764" type="positive" size="" desc=""/>
+<Node id="budesonide--PA448681" type="complex" name="budesonide--PA448681" desc="" subcellular="Extracellular" link=""/>
+<Node id="GLCCI1" type="DNA" name="GLCCI1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs37973" type="SNP" name="rs37973" desc="" subcellular="" link=""/>
+<Edge fromID="rs37973" toID="GLCCI1" type="positive" size="" desc=""/>
+<Edge fromID="GLCCI1" toID="budesonide--PA448681" type="positive" size="" desc=""/>
+<Node id="bupropion--PA448687" type="complex" name="bupropion--PA448687" desc="" subcellular="Extracellular" link=""/>
+<Node id="ARVCF" type="DNA" name="ARVCF" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs165599" type="SNP" name="rs165599" desc="" subcellular="" link=""/>
+<Edge fromID="rs165599" toID="ARVCF" type="positive" size="" desc=""/>
+<Edge fromID="ARVCF" toID="bupropion--PA448687" type="positive" size="" desc=""/>
+<Node id="bupropion--PA448687" type="complex" name="bupropion--PA448687" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="bupropion--PA448687" type="positive" size="" desc=""/>
+<Node id="caffeine--PA448710" type="complex" name="caffeine--PA448710" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP1A2" type="DNA" name="CYP1A2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs762551" type="SNP" name="rs762551" desc="" subcellular="" link=""/>
+<Edge fromID="rs762551" toID="CYP1A2" type="positive" size="" desc=""/>
+<Edge fromID="CYP1A2" toID="caffeine--PA448710" type="positive" size="" desc=""/>
+<Node id="capecitabine--PA448771" type="complex" name="capecitabine--PA448771" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="capecitabine--PA448771" type="positive" size="" desc=""/>
+<Node id="capecitabine--PA448771" type="complex" name="capecitabine--PA448771" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="capecitabine--PA448771" type="positive" size="" desc=""/>
+<Node id="capecitabine--PA448771" type="complex" name="capecitabine--PA448771" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="capecitabine--PA448771" type="positive" size="" desc=""/>
+<Node id="capecitabine--PA448771" type="complex" name="capecitabine--PA448771" desc="" subcellular="Extracellular" link=""/>
+<Node id="DPYD" type="DNA" name="DPYD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2297595" type="SNP" name="rs2297595" desc="" subcellular="" link=""/>
+<Edge fromID="rs2297595" toID="DPYD" type="positive" size="" desc=""/>
+<Edge fromID="DPYD" toID="capecitabine--PA448771" type="positive" size="" desc=""/>
+<Node id="carbamazepine--PA448785" type="complex" name="carbamazepine--PA448785" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="carbamazepine--PA448785" type="positive" size="" desc=""/>
+<Node id="carbamazepine--PA448785" type="complex" name="carbamazepine--PA448785" desc="" subcellular="Extracellular" link=""/>
+<Node id="EPHX1" type="DNA" name="EPHX1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1051740" type="SNP" name="rs1051740" desc="" subcellular="" link=""/>
+<Edge fromID="rs1051740" toID="EPHX1" type="positive" size="" desc=""/>
+<Edge fromID="EPHX1" toID="carbamazepine--PA448785" type="positive" size="" desc=""/>
+<Node id="carbamazepine--PA448785" type="complex" name="carbamazepine--PA448785" desc="" subcellular="Extracellular" link=""/>
+<Node id="HSPA1A" type="DNA" name="HSPA1A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2227956" type="SNP" name="rs2227956" desc="" subcellular="" link=""/>
+<Edge fromID="rs2227956" toID="HSPA1A" type="positive" size="" desc=""/>
+<Edge fromID="HSPA1A" toID="carbamazepine--PA448785" type="positive" size="" desc=""/>
+<Node id="carbamazepine--PA448785" type="complex" name="carbamazepine--PA448785" desc="" subcellular="Extracellular" link=""/>
+<Node id="BAT2" type="DNA" name="BAT2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs750332" type="SNP" name="rs750332" desc="" subcellular="" link=""/>
+<Edge fromID="rs750332" toID="BAT2" type="positive" size="" desc=""/>
+<Edge fromID="BAT2" toID="carbamazepine--PA448785" type="positive" size="" desc=""/>
+<Node id="carboplatin--PA448803" type="complex" name="carboplatin--PA448803" desc="" subcellular="Extracellular" link=""/>
+<Node id="DSCAM" type="DNA" name="DSCAM" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs9981861" type="SNP" name="rs9981861" desc="" subcellular="" link=""/>
+<Edge fromID="rs9981861" toID="DSCAM" type="positive" size="" desc=""/>
+<Edge fromID="DSCAM" toID="carboplatin--PA448803" type="positive" size="" desc=""/>
+<Node id="carvedilol--PA448817" type="complex" name="carvedilol--PA448817" desc="" subcellular="Extracellular" link=""/>
+<Node id="ADRB1" type="DNA" name="ADRB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801253" type="SNP" name="rs1801253" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801253" toID="ADRB1" type="positive" size="" desc=""/>
+<Edge fromID="ADRB1" toID="carvedilol--PA448817" type="positive" size="" desc=""/>
+<Node id="cisplatin--PA449014" type="complex" name="cisplatin--PA449014" desc="" subcellular="Extracellular" link=""/>
+<Node id="TP53" type="DNA" name="TP53" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1042522" type="SNP" name="rs1042522" desc="" subcellular="" link=""/>
+<Edge fromID="rs1042522" toID="TP53" type="positive" size="" desc=""/>
+<Edge fromID="TP53" toID="cisplatin--PA449014" type="positive" size="" desc=""/>
+<Node id="cisplatin--PA449014" type="complex" name="cisplatin--PA449014" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="cisplatin--PA449014" type="positive" size="" desc=""/>
+<Node id="cisplatin--PA449014" type="complex" name="cisplatin--PA449014" desc="" subcellular="Extracellular" link=""/>
+<Node id="GSTP1" type="DNA" name="GSTP1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1695" type="SNP" name="rs1695" desc="" subcellular="" link=""/>
+<Edge fromID="rs1695" toID="GSTP1" type="positive" size="" desc=""/>
+<Edge fromID="GSTP1" toID="cisplatin--PA449014" type="positive" size="" desc=""/>
+<Node id="cisplatin--PA449014" type="complex" name="cisplatin--PA449014" desc="" subcellular="Extracellular" link=""/>
+<Node id="GSTP1" type="DNA" name="GSTP1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1695" type="SNP" name="rs1695" desc="" subcellular="" link=""/>
+<Edge fromID="rs1695" toID="GSTP1" type="positive" size="" desc=""/>
+<Edge fromID="GSTP1" toID="cisplatin--PA449014" type="positive" size="" desc=""/>
+<Node id="cisplatin--PA449014" type="complex" name="cisplatin--PA449014" desc="" subcellular="Extracellular" link=""/>
+<Node id="XPC" type="DNA" name="XPC" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2228001" type="SNP" name="rs2228001" desc="" subcellular="" link=""/>
+<Edge fromID="rs2228001" toID="XPC" type="positive" size="" desc=""/>
+<Edge fromID="XPC" toID="cisplatin--PA449014" type="positive" size="" desc=""/>
+<Node id="cisplatin--PA449014" type="complex" name="cisplatin--PA449014" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLC22A2" type="DNA" name="SLC22A2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs316019" type="SNP" name="rs316019" desc="" subcellular="" link=""/>
+<Edge fromID="rs316019" toID="SLC22A2" type="positive" size="" desc=""/>
+<Edge fromID="SLC22A2" toID="cisplatin--PA449014" type="positive" size="" desc=""/>
+<Node id="citalopram--PA449015" type="complex" name="citalopram--PA449015" desc="" subcellular="Extracellular" link=""/>
+<Node id="GRIK4" type="DNA" name="GRIK4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1954787" type="SNP" name="rs1954787" desc="" subcellular="" link=""/>
+<Edge fromID="rs1954787" toID="GRIK4" type="positive" size="" desc=""/>
+<Edge fromID="GRIK4" toID="citalopram--PA449015" type="positive" size="" desc=""/>
+<Node id="citalopram--PA449015" type="complex" name="citalopram--PA449015" desc="" subcellular="Extracellular" link=""/>
+<Node id="SERPINE1" type="DNA" name="SERPINE1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2227631" type="SNP" name="rs2227631" desc="" subcellular="" link=""/>
+<Edge fromID="rs2227631" toID="SERPINE1" type="positive" size="" desc=""/>
+<Edge fromID="SERPINE1" toID="citalopram--PA449015" type="positive" size="" desc=""/>
+<Node id="citalopram--PA449015" type="complex" name="citalopram--PA449015" desc="" subcellular="Extracellular" link=""/>
+<Node id="CREB1" type="DNA" name="CREB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs7569963" type="SNP" name="rs7569963" desc="" subcellular="" link=""/>
+<Edge fromID="rs7569963" toID="CREB1" type="positive" size="" desc=""/>
+<Edge fromID="CREB1" toID="citalopram--PA449015" type="positive" size="" desc=""/>
+<Node id="citalopram--PA449015" type="complex" name="citalopram--PA449015" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR2A" type="DNA" name="HTR2A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs7997012" type="SNP" name="rs7997012" desc="" subcellular="" link=""/>
+<Edge fromID="rs7997012" toID="HTR2A" type="positive" size="" desc=""/>
+<Edge fromID="HTR2A" toID="citalopram--PA449015" type="positive" size="" desc=""/>
+<Node id="clodronate--PA10239" type="complex" name="clodronate--PA10239" desc="" subcellular="Extracellular" link=""/>
+<Node id="IL1B" type="DNA" name="IL1B" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs16944" type="SNP" name="rs16944" desc="" subcellular="" link=""/>
+<Edge fromID="rs16944" toID="IL1B" type="positive" size="" desc=""/>
+<Edge fromID="IL1B" toID="clodronate--PA10239" type="positive" size="" desc=""/>
+<Node id="clomipramine--PA449048" type="complex" name="clomipramine--PA449048" desc="" subcellular="Extracellular" link=""/>
+<Node id="FKBP5" type="DNA" name="FKBP5" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1360780" type="SNP" name="rs1360780" desc="" subcellular="" link=""/>
+<Edge fromID="rs1360780" toID="FKBP5" type="positive" size="" desc=""/>
+<Edge fromID="FKBP5" toID="clomipramine--PA449048" type="positive" size="" desc=""/>
+<Node id="clopidogrel--PA449053" type="complex" name="clopidogrel--PA449053" desc="" subcellular="Extracellular" link=""/>
+<Node id="PON1" type="DNA" name="PON1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs662" type="SNP" name="rs662" desc="" subcellular="" link=""/>
+<Edge fromID="rs662" toID="PON1" type="positive" size="" desc=""/>
+<Edge fromID="PON1" toID="clopidogrel--PA449053" type="positive" size="" desc=""/>
+<Node id="clozapine--PA449061" type="complex" name="clozapine--PA449061" desc="" subcellular="Extracellular" link=""/>
+<Node id="DRD2" type="DNA" name="DRD2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1079598" type="SNP" name="rs1079598" desc="" subcellular="" link=""/>
+<Edge fromID="rs1079598" toID="DRD2" type="positive" size="" desc=""/>
+<Edge fromID="DRD2" toID="clozapine--PA449061" type="positive" size="" desc=""/>
+<Node id="clozapine--PA449061" type="complex" name="clozapine--PA449061" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="clozapine--PA449061" type="positive" size="" desc=""/>
+<Node id="cyanocobalamin--PA451892" type="complex" name="cyanocobalamin--PA451892" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="cyanocobalamin--PA451892" type="positive" size="" desc=""/>
+<Node id="cyclophosphamide--PA449165" type="complex" name="cyclophosphamide--PA449165" desc="" subcellular="Extracellular" link=""/>
+<Node id="TP53" type="DNA" name="TP53" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1042522" type="SNP" name="rs1042522" desc="" subcellular="" link=""/>
+<Edge fromID="rs1042522" toID="TP53" type="positive" size="" desc=""/>
+<Edge fromID="TP53" toID="cyclophosphamide--PA449165" type="positive" size="" desc=""/>
+<Node id="cyclophosphamide--PA449165" type="complex" name="cyclophosphamide--PA449165" desc="" subcellular="Extracellular" link=""/>
+<Node id="GSTP1" type="DNA" name="GSTP1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1695" type="SNP" name="rs1695" desc="" subcellular="" link=""/>
+<Edge fromID="rs1695" toID="GSTP1" type="positive" size="" desc=""/>
+<Edge fromID="GSTP1" toID="cyclophosphamide--PA449165" type="positive" size="" desc=""/>
+<Node id="cyclophosphamide--PA449165" type="complex" name="cyclophosphamide--PA449165" desc="" subcellular="Extracellular" link=""/>
+<Node id="GSTP1" type="DNA" name="GSTP1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1695" type="SNP" name="rs1695" desc="" subcellular="" link=""/>
+<Edge fromID="rs1695" toID="GSTP1" type="positive" size="" desc=""/>
+<Edge fromID="GSTP1" toID="cyclophosphamide--PA449165" type="positive" size="" desc=""/>
+<Node id="cyclophosphamide--PA449165" type="complex" name="cyclophosphamide--PA449165" desc="" subcellular="Extracellular" link=""/>
+<Node id="GSTP1" type="DNA" name="GSTP1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1695" type="SNP" name="rs1695" desc="" subcellular="" link=""/>
+<Edge fromID="rs1695" toID="GSTP1" type="positive" size="" desc=""/>
+<Edge fromID="GSTP1" toID="cyclophosphamide--PA449165" type="positive" size="" desc=""/>
+<Node id="cyclophosphamide--PA449165" type="complex" name="cyclophosphamide--PA449165" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP2B6" type="DNA" name="CYP2B6" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2279343" type="SNP" name="rs2279343" desc="" subcellular="" link=""/>
+<Edge fromID="rs2279343" toID="CYP2B6" type="positive" size="" desc=""/>
+<Edge fromID="CYP2B6" toID="cyclophosphamide--PA449165" type="positive" size="" desc=""/>
+<Node id="cyclophosphamide--PA449165" type="complex" name="cyclophosphamide--PA449165" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP3A4" type="DNA" name="CYP3A4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2740574" type="SNP" name="rs2740574" desc="" subcellular="" link=""/>
+<Edge fromID="rs2740574" toID="CYP3A4" type="positive" size="" desc=""/>
+<Edge fromID="CYP3A4" toID="cyclophosphamide--PA449165" type="positive" size="" desc=""/>
+<Node id="cyclophosphamide--PA449165" type="complex" name="cyclophosphamide--PA449165" desc="" subcellular="Extracellular" link=""/>
+<Node id="SOD2" type="DNA" name="SOD2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4880" type="SNP" name="rs4880" desc="" subcellular="" link=""/>
+<Edge fromID="rs4880" toID="SOD2" type="positive" size="" desc=""/>
+<Edge fromID="SOD2" toID="cyclophosphamide--PA449165" type="positive" size="" desc=""/>
+<Node id="cyclosporine--PA449167" type="complex" name="cyclosporine--PA449167" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="cyclosporine--PA449167" type="positive" size="" desc=""/>
+<Node id="cytarabine--PA449177" type="complex" name="cytarabine--PA449177" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="cytarabine--PA449177" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP1B1" type="DNA" name="CYP1B1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1056836" type="SNP" name="rs1056836" desc="" subcellular="" link=""/>
+<Edge fromID="rs1056836" toID="CYP1B1" type="positive" size="" desc=""/>
+<Edge fromID="CYP1B1" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="CHST3" type="DNA" name="CHST3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs12418" type="SNP" name="rs12418" desc="" subcellular="" link=""/>
+<Edge fromID="rs12418" toID="CHST3" type="positive" size="" desc=""/>
+<Edge fromID="CHST3" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="SULT1C4" type="DNA" name="SULT1C4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1402467" type="SNP" name="rs1402467" desc="" subcellular="" link=""/>
+<Edge fromID="rs1402467" toID="SULT1C4" type="positive" size="" desc=""/>
+<Edge fromID="SULT1C4" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="CHST3" type="DNA" name="CHST3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1871450" type="SNP" name="rs1871450" desc="" subcellular="" link=""/>
+<Edge fromID="rs1871450" toID="CHST3" type="positive" size="" desc=""/>
+<Edge fromID="CHST3" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="PPARD" type="DNA" name="PPARD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1883322" type="SNP" name="rs1883322" desc="" subcellular="" link=""/>
+<Edge fromID="rs1883322" toID="PPARD" type="positive" size="" desc=""/>
+<Edge fromID="PPARD" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="PPARD" type="DNA" name="PPARD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2016520" type="SNP" name="rs2016520" desc="" subcellular="" link=""/>
+<Edge fromID="rs2016520" toID="PPARD" type="positive" size="" desc=""/>
+<Edge fromID="PPARD" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLC10A2" type="DNA" name="SLC10A2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2301159" type="SNP" name="rs2301159" desc="" subcellular="" link=""/>
+<Edge fromID="rs2301159" toID="SLC10A2" type="positive" size="" desc=""/>
+<Edge fromID="SLC10A2" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP3A" type="DNA" name="CYP3A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2740574" type="SNP" name="rs2740574" desc="" subcellular="" link=""/>
+<Edge fromID="rs2740574" toID="CYP3A" type="positive" size="" desc=""/>
+<Edge fromID="CYP3A" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="PPARD" type="DNA" name="PPARD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs3734254" type="SNP" name="rs3734254" desc="" subcellular="" link=""/>
+<Edge fromID="rs3734254" toID="PPARD" type="positive" size="" desc=""/>
+<Edge fromID="PPARD" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="CHST3" type="DNA" name="CHST3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4148950" type="SNP" name="rs4148950" desc="" subcellular="" link=""/>
+<Edge fromID="rs4148950" toID="CHST3" type="positive" size="" desc=""/>
+<Edge fromID="CHST3" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP4B1" type="DNA" name="CYP4B1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4646487" type="SNP" name="rs4646487" desc="" subcellular="" link=""/>
+<Edge fromID="rs4646487" toID="CYP4B1" type="positive" size="" desc=""/>
+<Edge fromID="CYP4B1" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="docetaxel--PA449383" type="complex" name="docetaxel--PA449383" desc="" subcellular="Extracellular" link=""/>
+<Node id="PPARD" type="DNA" name="PPARD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6922548" type="SNP" name="rs6922548" desc="" subcellular="" link=""/>
+<Edge fromID="rs6922548" toID="PPARD" type="positive" size="" desc=""/>
+<Edge fromID="PPARD" toID="docetaxel--PA449383" type="positive" size="" desc=""/>
+<Node id="doxorubicin--PA449412" type="complex" name="doxorubicin--PA449412" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="doxorubicin--PA449412" type="positive" size="" desc=""/>
+<Node id="doxorubicin--PA449412" type="complex" name="doxorubicin--PA449412" desc="" subcellular="Extracellular" link=""/>
+<Node id="CBR3" type="DNA" name="CBR3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs8133052" type="SNP" name="rs8133052" desc="" subcellular="" link=""/>
+<Edge fromID="rs8133052" toID="CBR3" type="positive" size="" desc=""/>
+<Edge fromID="CBR3" toID="doxorubicin--PA449412" type="positive" size="" desc=""/>
+<Node id="Drugs used in nicotine dependence--PA164712720" type="complex" name="Drugs used in nicotine dependence--PA164712720" desc="" subcellular="Extracellular" link=""/>
+<Node id="CHRNA3" type="DNA" name="CHRNA3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs16969968" type="SNP" name="rs16969968" desc="" subcellular="" link=""/>
+<Edge fromID="rs16969968" toID="CHRNA3" type="positive" size="" desc=""/>
+<Edge fromID="CHRNA3" toID="Drugs used in nicotine dependence--PA164712720" type="positive" size="" desc=""/>
+<Node id="Drugs used in nicotine dependence--PA164712720" type="complex" name="Drugs used in nicotine dependence--PA164712720" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="Drugs used in nicotine dependence--PA164712720" type="positive" size="" desc=""/>
+<Node id="duloxetine--PA10066" type="complex" name="duloxetine--PA10066" desc="" subcellular="Extracellular" link=""/>
+<Node id="DRD3" type="DNA" name="DRD3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs963468" type="SNP" name="rs963468" desc="" subcellular="" link=""/>
+<Edge fromID="rs963468" toID="DRD3" type="positive" size="" desc=""/>
+<Edge fromID="DRD3" toID="duloxetine--PA10066" type="positive" size="" desc=""/>
+<Node id="epirubicin--PA449476" type="complex" name="epirubicin--PA449476" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="epirubicin--PA449476" type="positive" size="" desc=""/>
+<Node id="epirubicin--PA449476" type="complex" name="epirubicin--PA449476" desc="" subcellular="Extracellular" link=""/>
+<Node id="GSTP1" type="DNA" name="GSTP1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1695" type="SNP" name="rs1695" desc="" subcellular="" link=""/>
+<Edge fromID="rs1695" toID="GSTP1" type="positive" size="" desc=""/>
+<Edge fromID="GSTP1" toID="epirubicin--PA449476" type="positive" size="" desc=""/>
+<Node id="erlotinib--PA134687924" type="complex" name="erlotinib--PA134687924" desc="" subcellular="Extracellular" link=""/>
+<Node id="EGFR" type="DNA" name="EGFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs712829" type="SNP" name="rs712829" desc="" subcellular="" link=""/>
+<Edge fromID="rs712829" toID="EGFR" type="positive" size="" desc=""/>
+<Edge fromID="EGFR" toID="erlotinib--PA134687924" type="positive" size="" desc=""/>
+<Node id="erlotinib--PA134687924" type="complex" name="erlotinib--PA134687924" desc="" subcellular="Extracellular" link=""/>
+<Node id="EGFR" type="DNA" name="EGFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs712829" type="SNP" name="rs712829" desc="" subcellular="" link=""/>
+<Edge fromID="rs712829" toID="EGFR" type="positive" size="" desc=""/>
+<Edge fromID="EGFR" toID="erlotinib--PA134687924" type="positive" size="" desc=""/>
+<Node id="ethanol--PA448073" type="complex" name="ethanol--PA448073" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="ethanol--PA448073" type="positive" size="" desc=""/>
+<Node id="etidronic acid--PA449548" type="complex" name="etidronic acid--PA449548" desc="" subcellular="Extracellular" link=""/>
+<Node id="IL1B" type="DNA" name="IL1B" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs16944" type="SNP" name="rs16944" desc="" subcellular="" link=""/>
+<Edge fromID="rs16944" toID="IL1B" type="positive" size="" desc=""/>
+<Edge fromID="IL1B" toID="etidronic acid--PA449548" type="positive" size="" desc=""/>
+<Node id="fexofenadine--PA449621" type="complex" name="fexofenadine--PA449621" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="fexofenadine--PA449621" type="positive" size="" desc=""/>
+<Node id="fluorouracil--PA128406956" type="complex" name="fluorouracil--PA128406956" desc="" subcellular="Extracellular" link=""/>
+<Node id="TP53" type="DNA" name="TP53" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1042522" type="SNP" name="rs1042522" desc="" subcellular="" link=""/>
+<Edge fromID="rs1042522" toID="TP53" type="positive" size="" desc=""/>
+<Edge fromID="TP53" toID="fluorouracil--PA128406956" type="positive" size="" desc=""/>
+<Node id="fluorouracil--PA128406956" type="complex" name="fluorouracil--PA128406956" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="fluorouracil--PA128406956" type="positive" size="" desc=""/>
+<Node id="fluorouracil--PA128406956" type="complex" name="fluorouracil--PA128406956" desc="" subcellular="Extracellular" link=""/>
+<Node id="GSTP1" type="DNA" name="GSTP1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1695" type="SNP" name="rs1695" desc="" subcellular="" link=""/>
+<Edge fromID="rs1695" toID="GSTP1" type="positive" size="" desc=""/>
+<Edge fromID="GSTP1" toID="fluorouracil--PA128406956" type="positive" size="" desc=""/>
+<Node id="fluorouracil--PA128406956" type="complex" name="fluorouracil--PA128406956" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="fluorouracil--PA128406956" type="positive" size="" desc=""/>
+<Node id="fluorouracil--PA128406956" type="complex" name="fluorouracil--PA128406956" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="fluorouracil--PA128406956" type="positive" size="" desc=""/>
+<Node id="fluorouracil--PA128406956" type="complex" name="fluorouracil--PA128406956" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="fluorouracil--PA128406956" type="positive" size="" desc=""/>
+<Node id="fluorouracil--PA128406956" type="complex" name="fluorouracil--PA128406956" desc="" subcellular="Extracellular" link=""/>
+<Node id="DPYD" type="DNA" name="DPYD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801159" type="SNP" name="rs1801159" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801159" toID="DPYD" type="positive" size="" desc=""/>
+<Edge fromID="DPYD" toID="fluorouracil--PA128406956" type="positive" size="" desc=""/>
+<Node id="fluorouracil--PA128406956" type="complex" name="fluorouracil--PA128406956" desc="" subcellular="Extracellular" link=""/>
+<Node id="DPYD" type="DNA" name="DPYD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2297595" type="SNP" name="rs2297595" desc="" subcellular="" link=""/>
+<Edge fromID="rs2297595" toID="DPYD" type="positive" size="" desc=""/>
+<Edge fromID="DPYD" toID="fluorouracil--PA128406956" type="positive" size="" desc=""/>
+<Node id="fluoxetine--PA449673" type="complex" name="fluoxetine--PA449673" desc="" subcellular="Extracellular" link=""/>
+<Node id="SERPINE1" type="DNA" name="SERPINE1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2227631" type="SNP" name="rs2227631" desc="" subcellular="" link=""/>
+<Edge fromID="rs2227631" toID="SERPINE1" type="positive" size="" desc=""/>
+<Edge fromID="SERPINE1" toID="fluoxetine--PA449673" type="positive" size="" desc=""/>
+<Node id="fluoxetine--PA449673" type="complex" name="fluoxetine--PA449673" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLC6A4" type="DNA" name="SLC6A4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs25531" type="SNP" name="rs25531" desc="" subcellular="" link=""/>
+<Edge fromID="rs25531" toID="SLC6A4" type="positive" size="" desc=""/>
+<Edge fromID="SLC6A4" toID="fluoxetine--PA449673" type="positive" size="" desc=""/>
+<Node id="fluvoxamine--PA449690" type="complex" name="fluvoxamine--PA449690" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR1A" type="DNA" name="HTR1A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs10042486" type="SNP" name="rs10042486" desc="" subcellular="" link=""/>
+<Edge fromID="rs10042486" toID="HTR1A" type="positive" size="" desc=""/>
+<Edge fromID="HTR1A" toID="fluvoxamine--PA449690" type="positive" size="" desc=""/>
+<Node id="fluvoxamine--PA449690" type="complex" name="fluvoxamine--PA449690" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR1A" type="DNA" name="HTR1A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6295" type="SNP" name="rs6295" desc="" subcellular="" link=""/>
+<Edge fromID="rs6295" toID="HTR1A" type="positive" size="" desc=""/>
+<Edge fromID="HTR1A" toID="fluvoxamine--PA449690" type="positive" size="" desc=""/>
+<Node id="folic acid--PA449692" type="complex" name="folic acid--PA449692" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="folic acid--PA449692" type="positive" size="" desc=""/>
+<Node id="gefitinib--PA131301952" type="complex" name="gefitinib--PA131301952" desc="" subcellular="Extracellular" link=""/>
+<Node id="EGFR" type="DNA" name="EGFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs712829" type="SNP" name="rs712829" desc="" subcellular="" link=""/>
+<Edge fromID="rs712829" toID="EGFR" type="positive" size="" desc=""/>
+<Edge fromID="EGFR" toID="gefitinib--PA131301952" type="positive" size="" desc=""/>
+<Node id="geldanamycin--PA152031327" type="complex" name="geldanamycin--PA152031327" desc="" subcellular="Extracellular" link=""/>
+<Node id="EGFR" type="DNA" name="EGFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs712829" type="SNP" name="rs712829" desc="" subcellular="" link=""/>
+<Edge fromID="rs712829" toID="EGFR" type="positive" size="" desc=""/>
+<Edge fromID="EGFR" toID="geldanamycin--PA152031327" type="positive" size="" desc=""/>
+<Node id="gemcitabine--PA449748" type="complex" name="gemcitabine--PA449748" desc="" subcellular="Extracellular" link=""/>
+<Node id="RRM1" type="DNA" name="RRM1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs9937" type="SNP" name="rs9937" desc="" subcellular="" link=""/>
+<Edge fromID="rs9937" toID="RRM1" type="positive" size="" desc=""/>
+<Edge fromID="RRM1" toID="gemcitabine--PA449748" type="positive" size="" desc=""/>
+<Node id="glucocorticoids--PA452347" type="complex" name="glucocorticoids--PA452347" desc="" subcellular="Extracellular" link=""/>
+<Node id="GLCCI1" type="DNA" name="GLCCI1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs37973" type="SNP" name="rs37973" desc="" subcellular="" link=""/>
+<Edge fromID="rs37973" toID="GLCCI1" type="positive" size="" desc=""/>
+<Edge fromID="GLCCI1" toID="glucocorticoids--PA452347" type="positive" size="" desc=""/>
+<Node id="hydrochlorothiazide--PA449899" type="complex" name="hydrochlorothiazide--PA449899" desc="" subcellular="Extracellular" link=""/>
+<Node id="NEDD4L" type="DNA" name="NEDD4L" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4149601" type="SNP" name="rs4149601" desc="" subcellular="" link=""/>
+<Edge fromID="rs4149601" toID="NEDD4L" type="positive" size="" desc=""/>
+<Edge fromID="NEDD4L" toID="hydrochlorothiazide--PA449899" type="positive" size="" desc=""/>
+<Node id="idarubicin--PA449961" type="complex" name="idarubicin--PA449961" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="idarubicin--PA449961" type="positive" size="" desc=""/>
+<Node id="iloperidone--PA161199368" type="complex" name="iloperidone--PA161199368" desc="" subcellular="Extracellular" link=""/>
+<Node id="CELF4" type="DNA" name="CELF4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4799915" type="SNP" name="rs4799915" desc="" subcellular="" link=""/>
+<Edge fromID="rs4799915" toID="CELF4" type="positive" size="" desc=""/>
+<Edge fromID="CELF4" toID="iloperidone--PA161199368" type="positive" size="" desc=""/>
+<Node id="iloperidone--PA161199368" type="complex" name="iloperidone--PA161199368" desc="" subcellular="Extracellular" link=""/>
+<Node id="NUBPL" type="DNA" name="NUBPL" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs7142881" type="SNP" name="rs7142881" desc="" subcellular="" link=""/>
+<Edge fromID="rs7142881" toID="NUBPL" type="positive" size="" desc=""/>
+<Edge fromID="NUBPL" toID="iloperidone--PA161199368" type="positive" size="" desc=""/>
+<Node id="leflunomide--PA450192" type="complex" name="leflunomide--PA450192" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP1A2" type="DNA" name="CYP1A2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs762551" type="SNP" name="rs762551" desc="" subcellular="" link=""/>
+<Edge fromID="rs762551" toID="CYP1A2" type="positive" size="" desc=""/>
+<Edge fromID="CYP1A2" toID="leflunomide--PA450192" type="positive" size="" desc=""/>
+<Node id="leucovorin--PA450198" type="complex" name="leucovorin--PA450198" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLC19A1" type="DNA" name="SLC19A1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1051266" type="SNP" name="rs1051266" desc="" subcellular="" link=""/>
+<Edge fromID="rs1051266" toID="SLC19A1" type="positive" size="" desc=""/>
+<Edge fromID="SLC19A1" toID="leucovorin--PA450198" type="positive" size="" desc=""/>
+<Node id="leucovorin--PA450198" type="complex" name="leucovorin--PA450198" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="leucovorin--PA450198" type="positive" size="" desc=""/>
+<Node id="leucovorin--PA450198" type="complex" name="leucovorin--PA450198" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="leucovorin--PA450198" type="positive" size="" desc=""/>
+<Node id="Lithium--PA164712869" type="complex" name="Lithium--PA164712869" desc="" subcellular="Extracellular" link=""/>
+<Node id="CACNG2" type="DNA" name="CACNG2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2284017" type="SNP" name="rs2284017" desc="" subcellular="" link=""/>
+<Edge fromID="rs2284017" toID="CACNG2" type="positive" size="" desc=""/>
+<Edge fromID="CACNG2" toID="Lithium--PA164712869" type="positive" size="" desc=""/>
+<Node id="lithium--PA450243" type="complex" name="lithium--PA450243" desc="" subcellular="Extracellular" link=""/>
+<Node id="CACNG2" type="DNA" name="CACNG2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2284017" type="SNP" name="rs2284017" desc="" subcellular="" link=""/>
+<Edge fromID="rs2284017" toID="CACNG2" type="positive" size="" desc=""/>
+<Edge fromID="CACNG2" toID="lithium--PA450243" type="positive" size="" desc=""/>
+<Node id="mercaptopurine--PA450379" type="complex" name="mercaptopurine--PA450379" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLC19A1" type="DNA" name="SLC19A1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1051266" type="SNP" name="rs1051266" desc="" subcellular="" link=""/>
+<Edge fromID="rs1051266" toID="SLC19A1" type="positive" size="" desc=""/>
+<Edge fromID="SLC19A1" toID="mercaptopurine--PA450379" type="positive" size="" desc=""/>
+<Node id="mercaptopurine--PA450379" type="complex" name="mercaptopurine--PA450379" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="mercaptopurine--PA450379" type="positive" size="" desc=""/>
+<Node id="methadone--PA450401" type="complex" name="methadone--PA450401" desc="" subcellular="Extracellular" link=""/>
+<Node id="DRD2" type="DNA" name="DRD2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6275" type="SNP" name="rs6275" desc="" subcellular="" link=""/>
+<Edge fromID="rs6275" toID="DRD2" type="positive" size="" desc=""/>
+<Edge fromID="DRD2" toID="methadone--PA450401" type="positive" size="" desc=""/>
+<Node id="methamphetamine--PA450403" type="complex" name="methamphetamine--PA450403" desc="" subcellular="Extracellular" link=""/>
+<Node id="PICK1" type="DNA" name="PICK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2076369" type="SNP" name="rs2076369" desc="" subcellular="" link=""/>
+<Edge fromID="rs2076369" toID="PICK1" type="positive" size="" desc=""/>
+<Edge fromID="PICK1" toID="methamphetamine--PA450403" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLC19A1" type="DNA" name="SLC19A1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1051266" type="SNP" name="rs1051266" desc="" subcellular="" link=""/>
+<Edge fromID="rs1051266" toID="SLC19A1" type="positive" size="" desc=""/>
+<Edge fromID="SLC19A1" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLC19A1" type="DNA" name="SLC19A1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1051266" type="SNP" name="rs1051266" desc="" subcellular="" link=""/>
+<Edge fromID="rs1051266" toID="SLC19A1" type="positive" size="" desc=""/>
+<Edge fromID="SLC19A1" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLC19A1" type="DNA" name="SLC19A1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1051266" type="SNP" name="rs1051266" desc="" subcellular="" link=""/>
+<Edge fromID="rs1051266" toID="SLC19A1" type="positive" size="" desc=""/>
+<Edge fromID="SLC19A1" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="FPGS" type="DNA" name="FPGS" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1544105" type="SNP" name="rs1544105" desc="" subcellular="" link=""/>
+<Edge fromID="rs1544105" toID="FPGS" type="positive" size="" desc=""/>
+<Edge fromID="FPGS" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTRR" type="DNA" name="MTRR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801394" type="SNP" name="rs1801394" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801394" toID="MTRR" type="positive" size="" desc=""/>
+<Edge fromID="MTRR" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="ADORA2A" type="DNA" name="ADORA2A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2236624" type="SNP" name="rs2236624" desc="" subcellular="" link=""/>
+<Edge fromID="rs2236624" toID="ADORA2A" type="positive" size="" desc=""/>
+<Edge fromID="ADORA2A" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="ATIC" type="DNA" name="ATIC" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2372536" type="SNP" name="rs2372536" desc="" subcellular="" link=""/>
+<Edge fromID="rs2372536" toID="ATIC" type="positive" size="" desc=""/>
+<Edge fromID="ATIC" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCC1" type="DNA" name="ABCC1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs246240" type="SNP" name="rs246240" desc="" subcellular="" link=""/>
+<Edge fromID="rs246240" toID="ABCC1" type="positive" size="" desc=""/>
+<Edge fromID="ABCC1" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4846051" type="SNP" name="rs4846051" desc="" subcellular="" link=""/>
+<Edge fromID="rs4846051" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="methotrexate--PA450428" type="complex" name="methotrexate--PA450428" desc="" subcellular="Extracellular" link=""/>
+<Node id="" type="DNA" name="" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4888024" type="SNP" name="rs4888024" desc="" subcellular="" link=""/>
+<Edge fromID="rs4888024" toID="" type="positive" size="" desc=""/>
+<Edge fromID="" toID="methotrexate--PA450428" type="positive" size="" desc=""/>
+<Node id="metoprolol--PA450480" type="complex" name="metoprolol--PA450480" desc="" subcellular="Extracellular" link=""/>
+<Node id="ADRB1" type="DNA" name="ADRB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801253" type="SNP" name="rs1801253" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801253" toID="ADRB1" type="positive" size="" desc=""/>
+<Edge fromID="ADRB1" toID="metoprolol--PA450480" type="positive" size="" desc=""/>
+<Node id="milnacipran--PA164752812" type="complex" name="milnacipran--PA164752812" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR1A" type="DNA" name="HTR1A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs10042486" type="SNP" name="rs10042486" desc="" subcellular="" link=""/>
+<Edge fromID="rs10042486" toID="HTR1A" type="positive" size="" desc=""/>
+<Edge fromID="HTR1A" toID="milnacipran--PA164752812" type="positive" size="" desc=""/>
+<Node id="montelukast--PA450546" type="complex" name="montelukast--PA450546" desc="" subcellular="Extracellular" link=""/>
+<Node id="ALOX5" type="DNA" name="ALOX5" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2115819" type="SNP" name="rs2115819" desc="" subcellular="" link=""/>
+<Edge fromID="rs2115819" toID="ALOX5" type="positive" size="" desc=""/>
+<Edge fromID="ALOX5" toID="montelukast--PA450546" type="positive" size="" desc=""/>
+<Node id="montelukast--PA450546" type="complex" name="montelukast--PA450546" desc="" subcellular="Extracellular" link=""/>
+<Node id="LTA4H" type="DNA" name="LTA4H" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2660845" type="SNP" name="rs2660845" desc="" subcellular="" link=""/>
+<Edge fromID="rs2660845" toID="LTA4H" type="positive" size="" desc=""/>
+<Edge fromID="LTA4H" toID="montelukast--PA450546" type="positive" size="" desc=""/>
+<Node id="mycophenolate mofetil--PA450566" type="complex" name="mycophenolate mofetil--PA450566" desc="" subcellular="Extracellular" link=""/>
+<Node id="IMPDH1" type="DNA" name="IMPDH1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2278293" type="SNP" name="rs2278293" desc="" subcellular="" link=""/>
+<Edge fromID="rs2278293" toID="IMPDH1" type="positive" size="" desc=""/>
+<Edge fromID="IMPDH1" toID="mycophenolate mofetil--PA450566" type="positive" size="" desc=""/>
+<Node id="mycophenolate mofetil--PA450566" type="complex" name="mycophenolate mofetil--PA450566" desc="" subcellular="Extracellular" link=""/>
+<Node id="IMPDH1" type="DNA" name="IMPDH1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2278294" type="SNP" name="rs2278294" desc="" subcellular="" link=""/>
+<Edge fromID="rs2278294" toID="IMPDH1" type="positive" size="" desc=""/>
+<Edge fromID="IMPDH1" toID="mycophenolate mofetil--PA450566" type="positive" size="" desc=""/>
+<Node id="mycophenolate mofetil--PA450566" type="complex" name="mycophenolate mofetil--PA450566" desc="" subcellular="Extracellular" link=""/>
+<Node id="IMPDH1" type="DNA" name="IMPDH1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2278294" type="SNP" name="rs2278294" desc="" subcellular="" link=""/>
+<Edge fromID="rs2278294" toID="IMPDH1" type="positive" size="" desc=""/>
+<Edge fromID="IMPDH1" toID="mycophenolate mofetil--PA450566" type="positive" size="" desc=""/>
+<Node id="mycophenolate mofetil--PA450566" type="complex" name="mycophenolate mofetil--PA450566" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLCO1B3" type="DNA" name="SLCO1B3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4149117" type="SNP" name="rs4149117" desc="" subcellular="" link=""/>
+<Edge fromID="rs4149117" toID="SLCO1B3" type="positive" size="" desc=""/>
+<Edge fromID="SLCO1B3" toID="mycophenolate mofetil--PA450566" type="positive" size="" desc=""/>
+<Node id="nefazodone--PA450603" type="complex" name="nefazodone--PA450603" desc="" subcellular="Extracellular" link=""/>
+<Node id="FKBP5" type="DNA" name="FKBP5" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1360780" type="SNP" name="rs1360780" desc="" subcellular="" link=""/>
+<Edge fromID="rs1360780" toID="FKBP5" type="positive" size="" desc=""/>
+<Edge fromID="FKBP5" toID="nefazodone--PA450603" type="positive" size="" desc=""/>
+<Node id="nemonapride--PA151186253" type="complex" name="nemonapride--PA151186253" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="nemonapride--PA151186253" type="positive" size="" desc=""/>
+<Node id="nicotine--PA450626" type="complex" name="nicotine--PA450626" desc="" subcellular="Extracellular" link=""/>
+<Node id="CHRNA5" type="DNA" name="CHRNA5" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs16969968" type="SNP" name="rs16969968" desc="" subcellular="" link=""/>
+<Edge fromID="rs16969968" toID="CHRNA5" type="positive" size="" desc=""/>
+<Edge fromID="CHRNA5" toID="nicotine--PA450626" type="positive" size="" desc=""/>
+<Node id="nicotine--PA450626" type="complex" name="nicotine--PA450626" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="nicotine--PA450626" type="positive" size="" desc=""/>
+<Node id="nitrous oxide--PA450645" type="complex" name="nitrous oxide--PA450645" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="nitrous oxide--PA450645" type="positive" size="" desc=""/>
+<Node id="nortriptyline--PA450657" type="complex" name="nortriptyline--PA450657" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="nortriptyline--PA450657" type="positive" size="" desc=""/>
+<Node id="olanzapine--PA450688" type="complex" name="olanzapine--PA450688" desc="" subcellular="Extracellular" link=""/>
+<Node id="DRD2" type="DNA" name="DRD2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1079598" type="SNP" name="rs1079598" desc="" subcellular="" link=""/>
+<Edge fromID="rs1079598" toID="DRD2" type="positive" size="" desc=""/>
+<Edge fromID="DRD2" toID="olanzapine--PA450688" type="positive" size="" desc=""/>
+<Node id="olanzapine--PA450688" type="complex" name="olanzapine--PA450688" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="olanzapine--PA450688" type="positive" size="" desc=""/>
+<Node id="olanzapine--PA450688" type="complex" name="olanzapine--PA450688" desc="" subcellular="Extracellular" link=""/>
+<Node id="RGS4" type="DNA" name="RGS4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2842030" type="SNP" name="rs2842030" desc="" subcellular="" link=""/>
+<Edge fromID="rs2842030" toID="RGS4" type="positive" size="" desc=""/>
+<Edge fromID="RGS4" toID="olanzapine--PA450688" type="positive" size="" desc=""/>
+<Node id="olanzapine--PA450688" type="complex" name="olanzapine--PA450688" desc="" subcellular="Extracellular" link=""/>
+<Node id="DRD3" type="DNA" name="DRD3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6280" type="SNP" name="rs6280" desc="" subcellular="" link=""/>
+<Edge fromID="rs6280" toID="DRD3" type="positive" size="" desc=""/>
+<Edge fromID="DRD3" toID="olanzapine--PA450688" type="positive" size="" desc=""/>
+<Node id="olanzapine--PA450688" type="complex" name="olanzapine--PA450688" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP1A2" type="DNA" name="CYP1A2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs762551" type="SNP" name="rs762551" desc="" subcellular="" link=""/>
+<Edge fromID="rs762551" toID="CYP1A2" type="positive" size="" desc=""/>
+<Edge fromID="CYP1A2" toID="olanzapine--PA450688" type="positive" size="" desc=""/>
+<Node id="olanzapine--PA450688" type="complex" name="olanzapine--PA450688" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR2A" type="DNA" name="HTR2A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs7997012" type="SNP" name="rs7997012" desc="" subcellular="" link=""/>
+<Edge fromID="rs7997012" toID="HTR2A" type="positive" size="" desc=""/>
+<Edge fromID="HTR2A" toID="olanzapine--PA450688" type="positive" size="" desc=""/>
+<Node id="Other antidepressants--PA164713016" type="complex" name="Other antidepressants--PA164713016" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2032583" type="SNP" name="rs2032583" desc="" subcellular="" link=""/>
+<Edge fromID="rs2032583" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="Other antidepressants--PA164713016" type="positive" size="" desc=""/>
+<Node id="Other antidepressants--PA164713016" type="complex" name="Other antidepressants--PA164713016" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2235015" type="SNP" name="rs2235015" desc="" subcellular="" link=""/>
+<Edge fromID="rs2235015" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="Other antidepressants--PA164713016" type="positive" size="" desc=""/>
+<Node id="oxaliplatin--PA131285527" type="complex" name="oxaliplatin--PA131285527" desc="" subcellular="Extracellular" link=""/>
+<Node id="GSTP1" type="DNA" name="GSTP1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1695" type="SNP" name="rs1695" desc="" subcellular="" link=""/>
+<Edge fromID="rs1695" toID="GSTP1" type="positive" size="" desc=""/>
+<Edge fromID="GSTP1" toID="oxaliplatin--PA131285527" type="positive" size="" desc=""/>
+<Node id="oxaliplatin--PA131285527" type="complex" name="oxaliplatin--PA131285527" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801131" type="SNP" name="rs1801131" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801131" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="oxaliplatin--PA131285527" type="positive" size="" desc=""/>
+<Node id="oxaliplatin--PA131285527" type="complex" name="oxaliplatin--PA131285527" desc="" subcellular="Extracellular" link=""/>
+<Node id="MTHFR" type="DNA" name="MTHFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1801133" type="SNP" name="rs1801133" desc="" subcellular="" link=""/>
+<Edge fromID="rs1801133" toID="MTHFR" type="positive" size="" desc=""/>
+<Edge fromID="MTHFR" toID="oxaliplatin--PA131285527" type="positive" size="" desc=""/>
+<Node id="paclitaxel--PA450761" type="complex" name="paclitaxel--PA450761" desc="" subcellular="Extracellular" link=""/>
+<Node id="TP53" type="DNA" name="TP53" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1042522" type="SNP" name="rs1042522" desc="" subcellular="" link=""/>
+<Edge fromID="rs1042522" toID="TP53" type="positive" size="" desc=""/>
+<Edge fromID="TP53" toID="paclitaxel--PA450761" type="positive" size="" desc=""/>
+<Node id="paclitaxel--PA450761" type="complex" name="paclitaxel--PA450761" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP1B1" type="DNA" name="CYP1B1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1056836" type="SNP" name="rs1056836" desc="" subcellular="" link=""/>
+<Edge fromID="rs1056836" toID="CYP1B1" type="positive" size="" desc=""/>
+<Edge fromID="CYP1B1" toID="paclitaxel--PA450761" type="positive" size="" desc=""/>
+<Node id="paclitaxel--PA450761" type="complex" name="paclitaxel--PA450761" desc="" subcellular="Extracellular" link=""/>
+<Node id="DSCAM" type="DNA" name="DSCAM" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs9981861" type="SNP" name="rs9981861" desc="" subcellular="" link=""/>
+<Edge fromID="rs9981861" toID="DSCAM" type="positive" size="" desc=""/>
+<Edge fromID="DSCAM" toID="paclitaxel--PA450761" type="positive" size="" desc=""/>
+<Node id="pantoprazole--PA450774" type="complex" name="pantoprazole--PA450774" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP2C19" type="DNA" name="CYP2C19" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs11188072" type="SNP" name="rs11188072" desc="" subcellular="" link=""/>
+<Edge fromID="rs11188072" toID="CYP2C19" type="positive" size="" desc=""/>
+<Edge fromID="CYP2C19" toID="pantoprazole--PA450774" type="positive" size="" desc=""/>
+<Node id="paroxetine--PA450801" type="complex" name="paroxetine--PA450801" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR1A" type="DNA" name="HTR1A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs10042486" type="SNP" name="rs10042486" desc="" subcellular="" link=""/>
+<Edge fromID="rs10042486" toID="HTR1A" type="positive" size="" desc=""/>
+<Edge fromID="HTR1A" toID="paroxetine--PA450801" type="positive" size="" desc=""/>
+<Node id="paroxetine--PA450801" type="complex" name="paroxetine--PA450801" desc="" subcellular="Extracellular" link=""/>
+<Node id="FKBP5" type="DNA" name="FKBP5" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1360780" type="SNP" name="rs1360780" desc="" subcellular="" link=""/>
+<Edge fromID="rs1360780" toID="FKBP5" type="positive" size="" desc=""/>
+<Edge fromID="FKBP5" toID="paroxetine--PA450801" type="positive" size="" desc=""/>
+<Node id="paroxetine--PA450801" type="complex" name="paroxetine--PA450801" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR1A" type="DNA" name="HTR1A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6295" type="SNP" name="rs6295" desc="" subcellular="" link=""/>
+<Edge fromID="rs6295" toID="HTR1A" type="positive" size="" desc=""/>
+<Edge fromID="HTR1A" toID="paroxetine--PA450801" type="positive" size="" desc=""/>
+<Node id="peginterferon alfa-2a--PA164749390" type="complex" name="peginterferon alfa-2a--PA164749390" desc="" subcellular="Extracellular" link=""/>
+<Node id="IL28B" type="DNA" name="IL28B" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs12979860" type="SNP" name="rs12979860" desc="" subcellular="" link=""/>
+<Edge fromID="rs12979860" toID="IL28B" type="positive" size="" desc=""/>
+<Edge fromID="IL28B" toID="peginterferon alfa-2a--PA164749390" type="positive" size="" desc=""/>
+<Node id="peginterferon alfa-2b--PA164784024" type="complex" name="peginterferon alfa-2b--PA164784024" desc="" subcellular="Extracellular" link=""/>
+<Node id="IL28B" type="DNA" name="IL28B" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs12979860" type="SNP" name="rs12979860" desc="" subcellular="" link=""/>
+<Edge fromID="rs12979860" toID="IL28B" type="positive" size="" desc=""/>
+<Edge fromID="IL28B" toID="peginterferon alfa-2b--PA164784024" type="positive" size="" desc=""/>
+<Node id="perphenazine--PA450882" type="complex" name="perphenazine--PA450882" desc="" subcellular="Extracellular" link=""/>
+<Node id="RGS4" type="DNA" name="RGS4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2842030" type="SNP" name="rs2842030" desc="" subcellular="" link=""/>
+<Edge fromID="rs2842030" toID="RGS4" type="positive" size="" desc=""/>
+<Edge fromID="RGS4" toID="perphenazine--PA450882" type="positive" size="" desc=""/>
+<Node id="phenytoin--PA450947" type="complex" name="phenytoin--PA450947" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="phenytoin--PA450947" type="positive" size="" desc=""/>
+<Node id="phenytoin--PA450947" type="complex" name="phenytoin--PA450947" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1045642" type="SNP" name="rs1045642" desc="" subcellular="" link=""/>
+<Edge fromID="rs1045642" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="phenytoin--PA450947" type="positive" size="" desc=""/>
+<Node id="phenytoin--PA450947" type="complex" name="phenytoin--PA450947" desc="" subcellular="Extracellular" link=""/>
+<Node id="EPHX1" type="DNA" name="EPHX1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1051740" type="SNP" name="rs1051740" desc="" subcellular="" link=""/>
+<Edge fromID="rs1051740" toID="EPHX1" type="positive" size="" desc=""/>
+<Edge fromID="EPHX1" toID="phenytoin--PA450947" type="positive" size="" desc=""/>
+<Node id="Platinum compounds--PA164713176" type="complex" name="Platinum compounds--PA164713176" desc="" subcellular="Extracellular" link=""/>
+<Node id="GSTP1" type="DNA" name="GSTP1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1695" type="SNP" name="rs1695" desc="" subcellular="" link=""/>
+<Edge fromID="rs1695" toID="GSTP1" type="positive" size="" desc=""/>
+<Edge fromID="GSTP1" toID="Platinum compounds--PA164713176" type="positive" size="" desc=""/>
+<Node id="ribavirin--PA451241" type="complex" name="ribavirin--PA451241" desc="" subcellular="Extracellular" link=""/>
+<Node id="IL28B" type="DNA" name="IL28B" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs12979860" type="SNP" name="rs12979860" desc="" subcellular="" link=""/>
+<Edge fromID="rs12979860" toID="IL28B" type="positive" size="" desc=""/>
+<Edge fromID="IL28B" toID="ribavirin--PA451241" type="positive" size="" desc=""/>
+<Node id="risedronate--PA451255" type="complex" name="risedronate--PA451255" desc="" subcellular="Extracellular" link=""/>
+<Node id="IL1B" type="DNA" name="IL1B" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs16944" type="SNP" name="rs16944" desc="" subcellular="" link=""/>
+<Edge fromID="rs16944" toID="IL1B" type="positive" size="" desc=""/>
+<Edge fromID="IL1B" toID="risedronate--PA451255" type="positive" size="" desc=""/>
+<Node id="risperidone--PA451257" type="complex" name="risperidone--PA451257" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCB1" type="DNA" name="ABCB1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1128503" type="SNP" name="rs1128503" desc="" subcellular="" link=""/>
+<Edge fromID="rs1128503" toID="ABCB1" type="positive" size="" desc=""/>
+<Edge fromID="ABCB1" toID="risperidone--PA451257" type="positive" size="" desc=""/>
+<Node id="risperidone--PA451257" type="complex" name="risperidone--PA451257" desc="" subcellular="Extracellular" link=""/>
+<Node id="COMT" type="DNA" name="COMT" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs165599" type="SNP" name="rs165599" desc="" subcellular="" link=""/>
+<Edge fromID="rs165599" toID="COMT" type="positive" size="" desc=""/>
+<Edge fromID="COMT" toID="risperidone--PA451257" type="positive" size="" desc=""/>
+<Node id="risperidone--PA451257" type="complex" name="risperidone--PA451257" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="risperidone--PA451257" type="positive" size="" desc=""/>
+<Node id="risperidone--PA451257" type="complex" name="risperidone--PA451257" desc="" subcellular="Extracellular" link=""/>
+<Node id="ANKK1" type="DNA" name="ANKK1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1800497" type="SNP" name="rs1800497" desc="" subcellular="" link=""/>
+<Edge fromID="rs1800497" toID="ANKK1" type="positive" size="" desc=""/>
+<Edge fromID="ANKK1" toID="risperidone--PA451257" type="positive" size="" desc=""/>
+<Node id="risperidone--PA451257" type="complex" name="risperidone--PA451257" desc="" subcellular="Extracellular" link=""/>
+<Node id="RGS4" type="DNA" name="RGS4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2661319" type="SNP" name="rs2661319" desc="" subcellular="" link=""/>
+<Edge fromID="rs2661319" toID="RGS4" type="positive" size="" desc=""/>
+<Edge fromID="RGS4" toID="risperidone--PA451257" type="positive" size="" desc=""/>
+<Node id="risperidone--PA451257" type="complex" name="risperidone--PA451257" desc="" subcellular="Extracellular" link=""/>
+<Node id="RGS4" type="DNA" name="RGS4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2842030" type="SNP" name="rs2842030" desc="" subcellular="" link=""/>
+<Edge fromID="rs2842030" toID="RGS4" type="positive" size="" desc=""/>
+<Edge fromID="RGS4" toID="risperidone--PA451257" type="positive" size="" desc=""/>
+<Node id="risperidone--PA451257" type="complex" name="risperidone--PA451257" desc="" subcellular="Extracellular" link=""/>
+<Node id="AKT1" type="DNA" name="AKT1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs3803300" type="SNP" name="rs3803300" desc="" subcellular="" link=""/>
+<Edge fromID="rs3803300" toID="AKT1" type="positive" size="" desc=""/>
+<Edge fromID="AKT1" toID="risperidone--PA451257" type="positive" size="" desc=""/>
+<Node id="risperidone--PA451257" type="complex" name="risperidone--PA451257" desc="" subcellular="Extracellular" link=""/>
+<Node id="DRD3" type="DNA" name="DRD3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6280" type="SNP" name="rs6280" desc="" subcellular="" link=""/>
+<Edge fromID="rs6280" toID="DRD3" type="positive" size="" desc=""/>
+<Edge fromID="DRD3" toID="risperidone--PA451257" type="positive" size="" desc=""/>
+<Node id="risperidone--PA451257" type="complex" name="risperidone--PA451257" desc="" subcellular="Extracellular" link=""/>
+<Node id="GRM3" type="DNA" name="GRM3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs724226" type="SNP" name="rs724226" desc="" subcellular="" link=""/>
+<Edge fromID="rs724226" toID="GRM3" type="positive" size="" desc=""/>
+<Edge fromID="GRM3" toID="risperidone--PA451257" type="positive" size="" desc=""/>
+<Node id="rosiglitazone--PA451283" type="complex" name="rosiglitazone--PA451283" desc="" subcellular="Extracellular" link=""/>
+<Node id="LPIN1" type="DNA" name="LPIN1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs10192566" type="SNP" name="rs10192566" desc="" subcellular="" link=""/>
+<Edge fromID="rs10192566" toID="LPIN1" type="positive" size="" desc=""/>
+<Edge fromID="LPIN1" toID="rosiglitazone--PA451283" type="positive" size="" desc=""/>
+<Node id="Selective serotonin reuptake inhibitors--PA164713257" type="complex" name="Selective serotonin reuptake inhibitors--PA164713257" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR1A" type="DNA" name="HTR1A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6295" type="SNP" name="rs6295" desc="" subcellular="" link=""/>
+<Edge fromID="rs6295" toID="HTR1A" type="positive" size="" desc=""/>
+<Edge fromID="HTR1A" toID="Selective serotonin reuptake inhibitors--PA164713257" type="positive" size="" desc=""/>
+<Node id="Selective serotonin reuptake inhibitors--PA164713257" type="complex" name="Selective serotonin reuptake inhibitors--PA164713257" desc="" subcellular="Extracellular" link=""/>
+<Node id="HTR2A" type="DNA" name="HTR2A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs7997012" type="SNP" name="rs7997012" desc="" subcellular="" link=""/>
+<Edge fromID="rs7997012" toID="HTR2A" type="positive" size="" desc=""/>
+<Edge fromID="HTR2A" toID="Selective serotonin reuptake inhibitors--PA164713257" type="positive" size="" desc=""/>
+<Node id="sildenafil--PA451346" type="complex" name="sildenafil--PA451346" desc="" subcellular="Extracellular" link=""/>
+<Node id="ACE" type="DNA" name="ACE" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4343" type="SNP" name="rs4343" desc="" subcellular="" link=""/>
+<Edge fromID="rs4343" toID="ACE" type="positive" size="" desc=""/>
+<Edge fromID="ACE" toID="sildenafil--PA451346" type="positive" size="" desc=""/>
+<Node id="sirolimus--PA451365" type="complex" name="sirolimus--PA451365" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP3A" type="DNA" name="CYP3A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2740574" type="SNP" name="rs2740574" desc="" subcellular="" link=""/>
+<Edge fromID="rs2740574" toID="CYP3A" type="positive" size="" desc=""/>
+<Edge fromID="CYP3A" toID="sirolimus--PA451365" type="positive" size="" desc=""/>
+<Node id="spironolactone--PA451483" type="complex" name="spironolactone--PA451483" desc="" subcellular="Extracellular" link=""/>
+<Node id="ACE" type="DNA" name="ACE" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4343" type="SNP" name="rs4343" desc="" subcellular="" link=""/>
+<Edge fromID="rs4343" toID="ACE" type="positive" size="" desc=""/>
+<Edge fromID="ACE" toID="spironolactone--PA451483" type="positive" size="" desc=""/>
+<Node id="sulfonamides, urea derivatives--PA10390" type="complex" name="sulfonamides, urea derivatives--PA10390" desc="" subcellular="Extracellular" link=""/>
+<Node id="TCF7L2" type="DNA" name="TCF7L2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs12255372" type="SNP" name="rs12255372" desc="" subcellular="" link=""/>
+<Edge fromID="rs12255372" toID="TCF7L2" type="positive" size="" desc=""/>
+<Edge fromID="TCF7L2" toID="sulfonamides, urea derivatives--PA10390" type="positive" size="" desc=""/>
+<Node id="tacrolimus--PA451578" type="complex" name="tacrolimus--PA451578" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP3A" type="DNA" name="CYP3A" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2740574" type="SNP" name="rs2740574" desc="" subcellular="" link=""/>
+<Edge fromID="rs2740574" toID="CYP3A" type="positive" size="" desc=""/>
+<Edge fromID="CYP3A" toID="tacrolimus--PA451578" type="positive" size="" desc=""/>
+<Node id="tamoxifen--PA451581" type="complex" name="tamoxifen--PA451581" desc="" subcellular="Extracellular" link=""/>
+<Node id="ESR2" type="DNA" name="ESR2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4986938" type="SNP" name="rs4986938" desc="" subcellular="" link=""/>
+<Edge fromID="rs4986938" toID="ESR2" type="positive" size="" desc=""/>
+<Edge fromID="ESR2" toID="tamoxifen--PA451581" type="positive" size="" desc=""/>
+<Node id="taxanes--PA150481189" type="complex" name="taxanes--PA150481189" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP1B1" type="DNA" name="CYP1B1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1056836" type="SNP" name="rs1056836" desc="" subcellular="" link=""/>
+<Edge fromID="rs1056836" toID="CYP1B1" type="positive" size="" desc=""/>
+<Edge fromID="CYP1B1" toID="taxanes--PA150481189" type="positive" size="" desc=""/>
+<Node id="tenofovir--PA10204" type="complex" name="tenofovir--PA10204" desc="" subcellular="Extracellular" link=""/>
+<Node id="ABCC10" type="DNA" name="ABCC10" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs9349256" type="SNP" name="rs9349256" desc="" subcellular="" link=""/>
+<Edge fromID="rs9349256" toID="ABCC10" type="positive" size="" desc=""/>
+<Edge fromID="ABCC10" toID="tenofovir--PA10204" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="CHST3" type="DNA" name="CHST3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs12418" type="SNP" name="rs12418" desc="" subcellular="" link=""/>
+<Edge fromID="rs12418" toID="CHST3" type="positive" size="" desc=""/>
+<Edge fromID="CHST3" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="SULT1C4" type="DNA" name="SULT1C4" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1402467" type="SNP" name="rs1402467" desc="" subcellular="" link=""/>
+<Edge fromID="rs1402467" toID="SULT1C4" type="positive" size="" desc=""/>
+<Edge fromID="SULT1C4" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="CHST3" type="DNA" name="CHST3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1871450" type="SNP" name="rs1871450" desc="" subcellular="" link=""/>
+<Edge fromID="rs1871450" toID="CHST3" type="positive" size="" desc=""/>
+<Edge fromID="CHST3" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="PPARD" type="DNA" name="PPARD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1883322" type="SNP" name="rs1883322" desc="" subcellular="" link=""/>
+<Edge fromID="rs1883322" toID="PPARD" type="positive" size="" desc=""/>
+<Edge fromID="PPARD" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="PPARD" type="DNA" name="PPARD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2016520" type="SNP" name="rs2016520" desc="" subcellular="" link=""/>
+<Edge fromID="rs2016520" toID="PPARD" type="positive" size="" desc=""/>
+<Edge fromID="PPARD" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="SLC10A2" type="DNA" name="SLC10A2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2301159" type="SNP" name="rs2301159" desc="" subcellular="" link=""/>
+<Edge fromID="rs2301159" toID="SLC10A2" type="positive" size="" desc=""/>
+<Edge fromID="SLC10A2" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="PPARD" type="DNA" name="PPARD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs3734254" type="SNP" name="rs3734254" desc="" subcellular="" link=""/>
+<Edge fromID="rs3734254" toID="PPARD" type="positive" size="" desc=""/>
+<Edge fromID="PPARD" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="CHST3" type="DNA" name="CHST3" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4148950" type="SNP" name="rs4148950" desc="" subcellular="" link=""/>
+<Edge fromID="rs4148950" toID="CHST3" type="positive" size="" desc=""/>
+<Edge fromID="CHST3" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="CYP4B1" type="DNA" name="CYP4B1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs4646487" type="SNP" name="rs4646487" desc="" subcellular="" link=""/>
+<Edge fromID="rs4646487" toID="CYP4B1" type="positive" size="" desc=""/>
+<Edge fromID="CYP4B1" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="thalidomide--PA451644" type="complex" name="thalidomide--PA451644" desc="" subcellular="Extracellular" link=""/>
+<Node id="PPARD" type="DNA" name="PPARD" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6922548" type="SNP" name="rs6922548" desc="" subcellular="" link=""/>
+<Edge fromID="rs6922548" toID="PPARD" type="positive" size="" desc=""/>
+<Edge fromID="PPARD" toID="thalidomide--PA451644" type="positive" size="" desc=""/>
+<Node id="tiludronate--PA451688" type="complex" name="tiludronate--PA451688" desc="" subcellular="Extracellular" link=""/>
+<Node id="IL1B" type="DNA" name="IL1B" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs16944" type="SNP" name="rs16944" desc="" subcellular="" link=""/>
+<Edge fromID="rs16944" toID="IL1B" type="positive" size="" desc=""/>
+<Edge fromID="IL1B" toID="tiludronate--PA451688" type="positive" size="" desc=""/>
+<Node id="topoisomerase I inhibitors--PA150481186" type="complex" name="topoisomerase I inhibitors--PA150481186" desc="" subcellular="Extracellular" link=""/>
+<Node id="EGFR" type="DNA" name="EGFR" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs712829" type="SNP" name="rs712829" desc="" subcellular="" link=""/>
+<Edge fromID="rs712829" toID="EGFR" type="positive" size="" desc=""/>
+<Edge fromID="EGFR" toID="topoisomerase I inhibitors--PA150481186" type="positive" size="" desc=""/>
+<Node id="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="complex" name="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" desc="" subcellular="Extracellular" link=""/>
+<Node id="MOBKL2B" type="DNA" name="MOBKL2B" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2814707" type="SNP" name="rs2814707" desc="" subcellular="" link=""/>
+<Edge fromID="rs2814707" toID="MOBKL2B" type="positive" size="" desc=""/>
+<Edge fromID="MOBKL2B" toID="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="positive" size="" desc=""/>
+<Node id="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="complex" name="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" desc="" subcellular="Extracellular" link=""/>
+<Node id="" type="DNA" name="" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6028945" type="SNP" name="rs6028945" desc="" subcellular="" link=""/>
+<Edge fromID="rs6028945" toID="" type="positive" size="" desc=""/>
+<Edge fromID="" toID="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="positive" size="" desc=""/>
+<Node id="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="complex" name="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" desc="" subcellular="Extracellular" link=""/>
+<Node id="" type="DNA" name="" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6071980" type="SNP" name="rs6071980" desc="" subcellular="" link=""/>
+<Edge fromID="rs6071980" toID="" type="positive" size="" desc=""/>
+<Edge fromID="" toID="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="positive" size="" desc=""/>
+<Node id="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="complex" name="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" desc="" subcellular="Extracellular" link=""/>
+<Node id="C9orf72" type="DNA" name="C9orf72" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs774359" type="SNP" name="rs774359" desc="" subcellular="" link=""/>
+<Edge fromID="rs774359" toID="C9orf72" type="positive" size="" desc=""/>
+<Edge fromID="C9orf72" toID="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="positive" size="" desc=""/>
+<Node id="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="complex" name="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" desc="" subcellular="Extracellular" link=""/>
+<Node id="PON1" type="DNA" name="PON1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs854547" type="SNP" name="rs854547" desc="" subcellular="" link=""/>
+<Edge fromID="rs854547" toID="PON1" type="positive" size="" desc=""/>
+<Edge fromID="PON1" toID="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="positive" size="" desc=""/>
+<Node id="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="complex" name="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" desc="" subcellular="Extracellular" link=""/>
+<Node id="PON1" type="DNA" name="PON1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs854548" type="SNP" name="rs854548" desc="" subcellular="" link=""/>
+<Edge fromID="rs854548" toID="PON1" type="positive" size="" desc=""/>
+<Edge fromID="PON1" toID="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="positive" size="" desc=""/>
+<Node id="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="complex" name="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" desc="" subcellular="Extracellular" link=""/>
+<Node id="PON1" type="DNA" name="PON1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs854555" type="SNP" name="rs854555" desc="" subcellular="" link=""/>
+<Edge fromID="rs854555" toID="PON1" type="positive" size="" desc=""/>
+<Edge fromID="PON1" toID="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="positive" size="" desc=""/>
+<Node id="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="complex" name="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" desc="" subcellular="Extracellular" link=""/>
+<Node id="GBP6" type="DNA" name="GBP6" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs928655" type="SNP" name="rs928655" desc="" subcellular="" link=""/>
+<Edge fromID="rs928655" toID="GBP6" type="positive" size="" desc=""/>
+<Edge fromID="GBP6" toID="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="positive" size="" desc=""/>
+<Node id="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="complex" name="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" desc="" subcellular="Extracellular" link=""/>
+<Node id="" type="DNA" name="" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs983332" type="SNP" name="rs983332" desc="" subcellular="" link=""/>
+<Edge fromID="rs983332" toID="" type="positive" size="" desc=""/>
+<Edge fromID="" toID="Tumor necrosis factor alpha (TNF-alpha) inhibitors--PA164713" type="positive" size="" desc=""/>
+<Node id="valproic acid--PA451846" type="complex" name="valproic acid--PA451846" desc="" subcellular="Extracellular" link=""/>
+<Node id="UGT1A6" type="DNA" name="UGT1A6" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1105879" type="SNP" name="rs1105879" desc="" subcellular="" link=""/>
+<Edge fromID="rs1105879" toID="UGT1A6" type="positive" size="" desc=""/>
+<Edge fromID="UGT1A6" toID="valproic acid--PA451846" type="positive" size="" desc=""/>
+<Node id="valproic acid--PA451846" type="complex" name="valproic acid--PA451846" desc="" subcellular="Extracellular" link=""/>
+<Node id="UGT1A10" type="DNA" name="UGT1A10" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs6759892" type="SNP" name="rs6759892" desc="" subcellular="" link=""/>
+<Edge fromID="rs6759892" toID="UGT1A10" type="positive" size="" desc=""/>
+<Edge fromID="UGT1A10" toID="valproic acid--PA451846" type="positive" size="" desc=""/>
+<Node id="venlafaxine--PA451866" type="complex" name="venlafaxine--PA451866" desc="" subcellular="Extracellular" link=""/>
+<Node id="FKBP5" type="DNA" name="FKBP5" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1360780" type="SNP" name="rs1360780" desc="" subcellular="" link=""/>
+<Edge fromID="rs1360780" toID="FKBP5" type="positive" size="" desc=""/>
+<Edge fromID="FKBP5" toID="venlafaxine--PA451866" type="positive" size="" desc=""/>
+<Node id="venlafaxine--PA451866" type="complex" name="venlafaxine--PA451866" desc="" subcellular="Extracellular" link=""/>
+<Node id="TPH2" type="DNA" name="TPH2" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs1487278" type="SNP" name="rs1487278" desc="" subcellular="" link=""/>
+<Edge fromID="rs1487278" toID="TPH2" type="positive" size="" desc=""/>
+<Edge fromID="TPH2" toID="venlafaxine--PA451866" type="positive" size="" desc=""/>
+<Node id="verapamil--PA451868" type="complex" name="verapamil--PA451868" desc="" subcellular="Extracellular" link=""/>
+<Node id="NOS1AP" type="DNA" name="NOS1AP" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs10494366" type="SNP" name="rs10494366" desc="" subcellular="" link=""/>
+<Edge fromID="rs10494366" toID="NOS1AP" type="positive" size="" desc=""/>
+<Edge fromID="NOS1AP" toID="verapamil--PA451868" type="positive" size="" desc=""/>
+<Node id="warfarin--PA451906" type="complex" name="warfarin--PA451906" desc="" subcellular="Extracellular" link=""/>
+<Node id="PRSS53" type="DNA" name="PRSS53" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs2359612" type="SNP" name="rs2359612" desc="" subcellular="" link=""/>
+<Edge fromID="rs2359612" toID="PRSS53" type="positive" size="" desc=""/>
+<Edge fromID="PRSS53" toID="warfarin--PA451906" type="positive" size="" desc=""/>
+<Node id="warfarin--PA451906" type="complex" name="warfarin--PA451906" desc="" subcellular="Extracellular" link=""/>
+<Node id="VKORC1" type="DNA" name="VKORC1" desc="" subcellular="Innercellular" link=""/>
+<Node id="rs7294" type="SNP" name="rs7294" desc="" subcellular="" link=""/>
+<Edge fromID="rs7294" toID="VKORC1" type="positive" size="" desc=""/>
+<Edge fromID="VKORC1" toID="warfarin--PA451906" type="positive" size="" desc=""/>
+</graph>

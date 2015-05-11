@@ -1,0 +1,17 @@
+body {
+text-align:center; /*center hack*/
+}
+#wrap {
+width:90%; /*center hack*/
+margin:0 auto; /*center hack*/
+text-align:left;
+}
+#header {
+text-align:left;
+}
+#footer {
+clear:both;
+}
+.inside {
+padding:10px;
+}

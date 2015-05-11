@@ -1,0 +1,16 @@
+Dear user,
+
+Thanks for choosing PGI. Due to the large size of exome sequencing data, please use FTP to upload your exome data to our server
+for analysis. Your FTP account is: %s, password: %s;
+FTP address: ftp://sustc-genome.org.cn
+Port: 2121
+
+
+There are many options available for FTP clients, such as Filezilla, Xmanager and SecureCRT.
+Depending on the speed of internet connection and the size of your data, the uploading may takes a few hours. 
+Please note that your FTP account will expire in 7 days.
+
+Best regards,
+PGI developing team
+
+http://www.sustc-genome.org.cn/pgi

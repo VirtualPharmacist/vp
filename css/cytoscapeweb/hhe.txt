@@ -1,0 +1,71 @@
+<node id="1">\ 
+<data key="label">Ace Inhibitors, Plain--PA164712308</data>\ 
+<data key="weight">6</data>\ 
+</node>\ 
+<node id="2">\ 
+<data key="label">BDKRB2</data>\ 
+<data key="weight">1</data>\ 
+</node>\ 
+<edge source="2" target="1">\ 
+</edge>\ 
+<node id="3">\ 
+<data key="label">MME</data>\ 
+<data key="weight">1</data>\ 
+</node>\ 
+<edge source="3" target="1">\ 
+</edge>\ 
+<node id="4">\ 
+<data key="label">BDKRB2</data>\ 
+<data key="weight">1</data>\ 
+</node>\ 
+<edge source="4" target="1">\ 
+</edge>\ 
+
+var xml2 = '\
+<graphml>\
+<key id="label" for="all" attr.name="label" attr.type="string"/>\
+<key id="weight" for="node" attr.name="weight" attr.type="double"/>\
+<graph edgedefault="directed">\
+<node id="1">\ 
+<data key="label">Ace Inhibitors, Plain--PA164712308</data>\ 
+<data key="weight">2.0</data>\ 
+</node>\ 
+<node id="2">\ 
+<data key="label">BDKRB2</data>\ 
+<data key="weight">1.5</data>\ 
+</node>\ 
+<node id="3">\ 
+<data key="label">MME</data>\ 
+<data key="weight">1.5</data>\ 
+</node>\ 
+<edge source="2" target="1">\ 
+</edge>\ 
+<edge source="3" target="1">\ 
+</edge>\ 
+</graph>\
+</graphml>\
+';
+
+
+<?php/*
+                $sql_3 = "select * from $tablename where Drug=\"$drug\"";
+                $query_3 = mysql_query($sql_3);
+                $drug_count = count(mysql_fetch_array($query_3));
+                echo "<node id=\"1\">\\ \n";
+                echo "<data key=\"label\">$drug</data>\\ \n";
+                echo "<data key=\"weight\">$drug_count</data>\\ \n";
+                echo "</node>\\ \n";
+                $node_id = 2;
+                while($row3 = mysql_fetch_array($query_3)){
+                        $gene = $row3["Gene"];
+                        echo "<node id=\"$node_id\">\\ \n";
+                        echo "<data key=\"label\">$gene</data>\\ \n";
+                        echo "<data key=\"weight\">1</data>\\ \n";
+                        echo "</node>\\ \n";
+                        echo "<edge source=\"$node_id\" target=\"1\">\\ \n";
+                        echo "</edge>\\ \n";
+                        $node_id = $node_id+1;
+                }
+        */
+?>
+

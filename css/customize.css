@@ -1,0 +1,298 @@
+/*Compass Design Customize.css file */ 
+* {
+    margin:0;
+    padding:0;
+}
+
+#wrap {
+    max-width: 1024px;
+}
+
+h1,h2,h3,h4,h5,h6,p,blockquote,form,label,ul,ol,dl,fieldset,address{
+    margin:0.5em 0;
+}
+
+ul{
+    margin-left:2em;
+}
+
+fieldset{
+    padding:.5em;
+}
+
+body{
+    font-size:76.1%;
+    font-family:Verdana,Arial,Helvetica,sans-serif;
+    line-height:1.3em;
+    margin:1em 0;
+    background:#d5d3c9;
+}
+
+.flags a { border:none; }
+.flags a:hover { border:none; }
+.flags a img { filter:alpha(opacity=50);opacity:.50; margin: 4px 0 -4px 0;}
+.flags a:hover img { filter:alpha(opacity=100);opacity:1.0; }
+
+#logo {
+	position:relative;
+	width: 100%;
+	height: 115px;
+	background-image: url('../images/logo.png');
+	background-repeat: no-repeat;
+	background-attachment:relative;
+	background-position: 50% 0; 
+}
+/*
+#sale {
+	position:absolute;
+	top:5px;
+	right:0px;
+	width:169px;
+	height:218px;
+	background:url(../images/sale-bdj.png) 0 0 no-repeat;
+    margin-left:auto; 
+    margin-right:0px;
+
+}
+*/
+.swbox {
+  position:relative;
+  top:-20px;
+  left:90px;
+  color:#999;
+}
+
+.paypal {
+    text-align:center;
+    background:#F3F2EA;
+    padding:20px;
+    width:80%;
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+.inside form {
+    background:#F3F2EA;
+    padding:10px;
+}
+
+.contentpane {
+    width:50%;
+    margin-left:auto; 
+    margin-right:auto;
+}
+.contentpane img {
+    display:none;
+}
+
+#toptext {
+    font-size:1em;
+    line-height:1em;
+    color:#666;
+    margin:0px 0 0 22px;
+}
+
+#affiliate {
+    position:relative;
+    float:right;
+    margin:-4px 20px 0px 0px;
+}
+
+#affiliate a {
+    text-decoration: none;
+    border-bottom:none;
+}
+
+/* CSS for the box starts here */
+.outer_box {
+	padding:0 22px 0 0;
+	background:url(../images/outer-borders.gif) 100% 0 repeat-y;
+}
+.outer_bi {
+	padding:0 0 0 15px;
+	background:url(../images/outer-borders.gif) 0 0 repeat-y;
+}
+
+/* Box top */
+.outer_bt {
+	height:19px;
+	margin:0 -22px 0 -15px;
+	background:url(../images/outer-box.gif) 100% 0 no-repeat;
+}
+.outer_bt div {
+	width:23px;
+	height:19px;
+	background:url(../images/outer-box.gif) 0 0 no-repeat;
+}
+
+/* Box bottom */
+.outer_bb {
+	height:30px;
+	margin:0 -22px 0 -15px;
+	background:url(../images/outer-box.gif) 100% 100% no-repeat;
+}
+.outer_bb div {
+	width:23px;
+	height:30px;
+	background:url(../images/outer-box.gif) 0 100% no-repeat;
+}
+
+
+#header{
+/*  border-bottom: 1px solid #999;*/
+    padding:10px;
+}
+#footer{
+    border-top: 1px solid #999;
+    padding:5px;
+    text-align:center; 
+}
+#footer table {
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+#hr{
+    border-bottom: 1px solid #999;
+    padding:5px;
+    margin:30px auto;
+    width:80%;
+
+}
+
+
+a {
+    color:#000;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#111;
+    text-decoration:none;
+    border-bottom:1px dotted #666; 
+}
+h1,.componentheading{
+    font-size:26px;
+    font-variant: small-caps;
+    text-align: center;
+    text-shadow: #C0C0C0 2px 2px 3px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+h2,.contentheading{
+    font-size:22px;
+    font-variant: small-caps;
+    text-align: center;
+}
+h3{
+    font-size:1.3em;
+    line-height:1.3em;
+}
+h4{
+    font-size:1.2em;
+    line-height:1.2em;
+}
+h5{
+    font-size:1.1em;
+    line-height:1.1em;
+}
+h6{
+    font-size:1em;
+    line-height:1em;
+    font-weight:bold;
+}
+#footer,.small,.createdate,.modifydate,.mosimage_caption{
+    font:1em Arial,Helvetica,sans-serif;
+    color:#999;
+}
+
+.infobox {
+    background:#F3F2EA;
+    padding:10px;
+    border: 1px dashed #555;
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* Menubar */
+table.menubar {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  text-align: center;
+}
+
+td.menubar_l {
+  background: url(../images/menubar/menu-left.png) no-repeat;
+  width:  18px;
+  height: 34px;
+}
+
+td.menubar_r {
+  background: url(../images/menubar/menu-right.png) no-repeat;
+  width:  18px;
+  height: 34px;
+}
+
+/*Credits: CSSplay */
+/*URL: http://www.cssplay.co.uk/menus/pro_drop2 */
+#mainlevelmainnav {padding:0 0 0 0; margin:0; list-style:none; height:34px; background:#fff url(../images/menubar/menu-tile.png) repeat-x; position:relative; font-family:arial, verdana, sans-serif; }
+#mainlevelmainnav li {display:block; float:left; position:relative;}
+
+#mainlevelmainnav li a {border:0px; display:block; float:left; height:34px; line-height:33px; color:#abd; text-decoration:none; font-size:11px; font-weight:bold; padding:0 12px 0 12px; cursor:pointer;}
+#mainlevelmainnav li #active_menumainnav {color:#fff;}
+
+#mainlevelmainnav li a:hover {color:#fff; }
+
+#mainlevelmainnav ul, 
+#mainlevelmainnav :hover ul {position:absolute; left:-9999px; top:-9999px; width:0; height:0; margin:0; padding:0; list-style:none;}
+#mainlevelmainnav :hover ul {left:0px; top:27px; background: #000; padding:0 0; white-space:nowrap; width:102px; height:auto;}
+#mainlevelmainnav :hover ul li {display:block; height:20px; position:relative; float:left; width:102px;}
+#mainlevelmainnav :hover ul li a {line-height:20px; height:20px; }
+
+#mainlevelmainnav [href*="download"] {color:#0F0; text-shadow: #0F0 0px 0px 5px; }
+
+#returnfail
+{
+    background: #FF8050;
+    padding: 10px;
+}
+
+#returnsuccess
+{
+    background: #80FF50;
+    padding: 10px;
+}
+
+.simpletable table {
+	color: #7F7F7F;
+	border-collapse: collapse
+}
+
+.simpletable table {
+	margin: 0 auto;
+	border: 1px solid #D5D3C9;
+}
+
+.simpletable table table {
+	border: 0px;
+}
+
+.simpletable td {
+	border-left: 0;
+	padding: 5px
+}
+
+.simpletable th {
+    background-color: #F3F2EA;
+    color: #000;
+    text-align: center;
+    border-left: 0;
+    padding: 10px
+}
+
+.simpletable tr.odd {
+	background-color: #FFFAF7;
+}
+
+
